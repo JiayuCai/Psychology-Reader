@@ -1,0 +1,1027 @@
+{
+  "publication": "Annual Review of Psychology",
+  "sourceUrl": "https://www.annualreviews.org/content/journals/psych/77/1",
+  "updatedAt": "2026-07-05",
+  "years": [
+    {
+      "year": 2026,
+      "entries": [
+        {
+          "id": "introduction-2026",
+          "kind": "introduction",
+          "title": "Introduction",
+          "authors": [
+            "Susan T. Fiske",
+            "Daniel L. Schacter"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-100125-025051",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-100125-025051",
+          "abstract": "这一页把 2026 年卷首 Introduction 与整卷正式综述分布合并成一个入口：先帮助建立总地图，再决定该往 AI、社会互动、方法升级、现实干预还是判断与行为改变这些主线深入。",
+          "primarySubfield": "总论 / 编辑导论",
+          "secondaryTags": [
+            "年度导论",
+            "卷首编排",
+            "学科前沿"
+          ],
+          "subfieldRationale": "该条目承担卷首导论功能，概括年度编排逻辑而非单一研究子领域。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "这一卷的卷首 Introduction 把基调定得很明确：AI 正在全面进入研究、教学和知识组织，但它不能替代有判断力的、人类学者主导的整合性综述。",
+            "l2CoreArgument": "Fiske 和 Schacter 的核心态度不是反 AI，而是强调：AI 擅长汇总、计数和关联，但未必能识别“一个正在成形的重要问题”。所以这卷传递出的信号是：2026 年的心理学，一边被 AI、脑科学和数字方法强烈推动，一边更需要用人的判断力重新组织学科重点。",
+            "l3ConceptHandles": [
+              "认知核心问题在被新方法重写：代表文章包括 Space to Act, Think, and Create、Motivation as Neural Context for Adaptive Learning and Memory Formation、The Temporal Scaffolding of Sensory Organization。",
+              "AI 正在逼心理学重新定义“解释人”：代表文章包括 Cognitive Modeling Using Artificial Intelligence、Social Robotics Is Not (Just) About Machines, It Is About People。",
+              "社会互动重新回到中心：代表文章包括 Scenes from a Marriage、Identity Needs in Intergroup Relations、Dyadic Emotion Regulation、The Psychology of Crowd Behavior。"
+            ],
+            "l4DisciplinaryFeedback": "Annual Review of Psychology 2026 不是散点式拼盘，而是在回答一个问题：在 AI、脑科学、新方法和现实应用同时加压的情况下，心理学接下来应该把哪些问题放在中心。",
+            "l5PivotalRefs": [
+              "Introduction：先读，抓编辑如何给整卷定调。",
+              "Cognitive Modeling Using Artificial Intelligence：再读，抓住 AI 如何逼心理学重写“认知模型”。",
+              "Scenes from a Marriage：随后进入这篇，快速进入社会互动与学科史主线。"
+            ]
+          }
+        },
+        {
+          "id": "scenes-from-a-marriage",
+          "kind": "article",
+          "title": "Scenes from a Marriage: How We Found Our Way from Experimental Psychology to Social Neuroscience",
+          "authors": [
+            "Uta Frith",
+            "Chris D. Frith"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-012425-033822",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-012425-033822",
+          "abstract": "Looking back on our life and work, we reflect on the changes in our thinking due to three scientific and technological revolutions. These are information processing, computers, and brain imaging, and together they ousted behaviorism from its dominant position in experimental psychology. We champion a model of the mind that is hierarchically organized with both a robust unconscious and a harder-to-pin-down conscious mode of operation. Our studies were inspired by disorders that made us realize that cognitive processes at all levels of the information processing hierarchy impact social interactions. We locate the influence of culture at the highest level of this processing hierarchy. Here we see the interface between different minds and the importance of norms when regulating the opposing trends in our complex and even contradictory social nature.",
+          "primarySubfield": "学科史与社会神经科学",
+          "secondaryTags": [
+            "实验心理学史",
+            "社会神经科学",
+            "意识与无意识",
+            "文化规范"
+          ],
+          "subfieldRationale": "文章以学术自传方式串联实验心理学向社会神经科学的迁移，核心落点是社会认知与脑成像带来的学科重组。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "作者回看自己从实验心理学走向社会神经科学的路径，核心是在纠偏一种过窄的心理学图景：既不能停留在行为主义的输入-输出，也不能把脑、认知、社会、文化切成彼此孤立的层面。文章要证明，认知层级才是连接大脑、社会互动与文化规范的关键中介。",
+            "l2CoreArgument": "核心论点是：现代心理学之所以能从实验室里的行为测量走向社会神经科学，靠的是信息加工、计算机建模和脑成像三次革命共同重建了分层心智模型。行为主义退场后，信息加工框架恢复了内部表征与无意识加工；计算机与建模让层级式心智更可操作；脑成像则把社会认知带回神经层面。自闭症、精神分裂症等障碍研究进一步说明，各层级认知过程都会影响社会互动，而文化与规范位于更高层，调节人类合作与冲突并存的社会本性。",
+            "l3ConceptHandles": [
+              "分层式心智模型：心智不是单层机制，而是从无意识加工到较难捉摸的意识，再到社会与文化规范逐层组织。",
+              "障碍作为机制窗口：自闭症、阅读障碍、精神分裂症等并非边缘案例，而是揭示正常认知与社会理解结构的实验入口。",
+              "社会互动中的规范与文化：社会认知不只是读心或共情，还包括多主体接口、规范协调与文化嵌入。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章反过来逼心理学承认：若没有认知层，脑研究无法自然过渡到社会解释；若没有社会与文化层，认知研究又会停在去情境化的实验室模型。它因此把心理学重新推回脑、认知、互动、文化一体化框架，并强调社会神经科学不该只是给旧概念配神经相关物，而应重写学科的解释层级。",
+            "l5PivotalRefs": [
+              "Baron-Cohen S, Leslie AM, Frith U. 1985. Does the autistic child have a \"theory of mind\"? Cognition 21(1):37-46. 角色：社会认知与心智理论的奠基文献。为什么关键：把自闭症研究转成可检验的心智表征问题，是 Frith 工作进入社会认知研究的关键起点。",
+              "Fletcher PC, Happe F, Frith U, Baker SC, Dolan RJ, et al. 1995. Other minds in the brain: a functional imaging study of \"theory of mind\" in story comprehension. Cognition 57(2):109-128. 角色：把心智理论推进到社会神经科学。为什么关键：把社会理解直接接到脑成像，是文章所回顾的重要转折。",
+              "Bahrami B, Olsen K, Latham PE, Roepstorff A, Rees G, Frith CD. 2010. Optimally interacting minds. Science 329(5995):1081-1085. 角色：从单人读心走向多主体互动。为什么关键：把 Frith 工作进一步推进到互动、协同与群体决策层面，呼应文章后段对不同心智接口与社会规范的强调。"
+            ]
+          }
+        },
+        {
+          "id": "space-to-act-think-create",
+          "kind": "article",
+          "title": "Space to Act, Think, and Create",
+          "authors": [
+            "Barbara Tversky"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-032525-024243",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-032525-024243",
+          "abstract": "My career began with the exciting beginnings of cognitive psychology. It took me to memory, mental representations, categorization, spatial cognition, language, event cognition, stories, discourse, visualizations, comics, gesture, joint action, creativity, design, and more. On the way I enjoyed collaborations with friends and students in many areas and many countries. I am slowing down just as brain, AI, computational models, and big data are taking over the field, bringing new methods and new ways of thinking and, with that, new talent and inspired minds.",
+          "primarySubfield": "认知、表征与空间思维",
+          "secondaryTags": [
+            "空间认知",
+            "心理表征",
+            "创造力",
+            "可视化"
+          ],
+          "subfieldRationale": "文章围绕空间认知、表征与创造活动的连续谱展开，属于广义认知心理学与空间思维研究。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "这篇文章的问题意识不是单点理论争鸣，而是用作者的研究生涯回看一个更大的认知心理学问题：空间究竟只是知觉内容，还是贯穿记忆、语言、事件理解、手势、协作和创造的组织性资源。它在纠偏把空间认知缩减成狭义导航或方位判断的看法。",
+            "l2CoreArgument": "核心论点是：空间既是行动的支架，也是思维和创造的外化接口。文章从认知心理学早期的表征问题出发，扩展到空间认知、语言、事件与叙事，再进入图示、漫画、手势、可视化等外部表征，最后把这些空间化表达放回联合行动、设计与创造之中。于是空间不再只是一个子领域对象，而是连接身体、表征、沟通与创新的通用组织格式。",
+            "l3ConceptHandles": [
+              "空间表征：空间不是被动容器，而是组织对象、事件和关系的认知格式。",
+              "外部化思维：图示、草图、可视化、漫画和手势是思维过程本身的一部分，而不只是表达结果。",
+              "视角转换与协作：perspective taking 和 joint action 说明空间重映射会改变理解、协作与创造。"
+            ],
+            "l4DisciplinaryFeedback": "这篇综述对心理学的反哺在于，它削弱了经典分科边界：记忆、语言、事件认知、动作、教育和设计不宜继续各说各话。若空间真是通用支架，那么心理学需要更认真处理具身性、外部表征和多模态协作，而不是把认知默认成头脑内部的纯符号操作。",
+            "l5PivotalRefs": [
+              "Bryant DJ, Tversky B, Franklin N. 1992. Internal and external spatial frameworks for representing described scenes. Journal of Memory and Language 31:74-98. 角色：空间表征核心文献。为什么关键：说明空间框架如何组织场景理解与心理表征，是把空间看作思维组织格式的重要基础。",
+              "Emmorey K, Tversky B, Taylor HA. 2000. Using space to describe space: perspective in speech, sign, and gesture. Journal of Spatial Cognition and Computation 2:157-180. 角色：空间、语言与手势之间的桥梁文献。为什么关键：把空间认知从内部表征扩展到语言、手势与交流，直接支撑文章中外部化思维和多模态表达的主线。",
+              "Chou YJ, Tversky B. 2020. Changing perspective: building creative mindsets. Cognitive Science 44:e12820. 角色：空间视角与创造力连接点。为什么关键：把 perspective shifting 直接接到创造性思维，最贴合标题中从 act、think 延伸到 create 的部分。"
+            ]
+          }
+        },
+        {
+          "id": "motivation-memory",
+          "kind": "article",
+          "title": "Motivation as Neural Context for Adaptive Learning and Memory Formation",
+          "authors": [
+            "Jia-Hou Poh",
+            "R. Alison Adcock"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-032525-031744",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-032525-031744",
+          "abstract": "Our memories shape our perception of the world and guide adaptive behavior. Rather than being a veridical record of experiences, memory is selective. An accumulating body of work suggests that motivational states, emerging from the interplay between internal and external demands, play a critical role in determining what information is encoded in memory and how. Central to the regulation of motivational states are dopaminergic and noradrenergic neuromodulatory systems that can coordinate brain activity to determine how information is propagated, shaping memory outcomes. In this review, we propose that motivational states supported by the dopaminergic ventral tegmental area would facilitate the formation of flexible associative memory, while the noradrenergic locus coeruleus would facilitate unitized goal-relevant memory. By considering how neuromodulatory systems can support different neural contexts, we aim to explain how motivation enables an adaptive memory system, and in bridging motivation and memory, we aim to offer a framework for insights applicable to education and clinical practice.",
+          "primarySubfield": "学习、记忆与动机",
+          "secondaryTags": [
+            "动机",
+            "记忆形成",
+            "神经调制",
+            "教育应用"
+          ],
+          "subfieldRationale": "文章直接讨论动机状态如何通过神经调制塑造学习与记忆形成，属于动机-记忆交叉研究。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "这篇综述要纠正一种很常见的处理方式：把动机当成记忆研究中的背景变量，默认它只是让被试“更投入”或“更有奖励感”，从而整体增强记忆。作者主张，真正需要解释的是动机如何改变编码发生时的神经上下文，以及这种上下文差异为什么会把不同类型的信息送往不同的记忆结果。",
+            "l2CoreArgument": "作者的核心推进是把“动机增强记忆”拆成不同神经情境下的不同结果。第一步，文章指出记忆本身就是选择性的，因此动机效应不应再被理解为统一增益。第二步，作者把焦点放到两条关键神经调制路径：由腹侧被盖区支持的多巴胺系统，更有利于形成灵活的联结记忆；由蓝斑核支持的去甲肾上腺素系统，更有利于形成整合化、目标相关的记忆。第三步，作者据此提出，所谓动机作用，其实是在塑造“什么类型的信息、以什么形式、在什么任务要求下”被优先编码。最后，文章把这一框架外推到教育与临床，说明如果不区分不同神经情境，就很难设计真正有效的学习和干预策略。",
+            "l3ConceptHandles": [
+              "动机状态：作者把它从“会不会更努力”的背景量，重定义为决定信息如何被编码的神经情境。",
+              "VTA / dopamine：不是泛化的奖励按钮，而是更偏向支持灵活的 associative memory，帮助建立可迁移的关系链接。",
+              "LC / noradrenaline：更偏向支持 unitized goal-relevant memory，使目标相关信息以更整合、更紧凑的形式被保留下来。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章反过来逼迫记忆研究放弃“单一路径增强”的想象，也逼迫动机研究停止停留在一般效价或唤醒层面。对心理学而言，真正的压力点变成：我们必须具体说明，是哪一种动机状态、通过哪一种神经调制路径、改变了哪一种记忆结果，以及这些效应在教育和临床场景里如何被有差别地调用。",
+            "l5PivotalRefs": [
+              "Adcock RA, Thangavel A, Whitfield-Gabrieli S, Knutson B, Gabrieli JDE. 2006. Reward-motivated learning: mesolimbic activation precedes memory formation. Neuron 50(3):507-517. 角色：动机与记忆耦合的起点文献。为什么关键：经典地证明奖赏动机状态与后续记忆形成相连，是本文重写动机增强记忆问题的前史入口。",
+              "Ballard IC, Murty VP, Carter RM, MacInnes JJ, Huettel SA, Adcock RA. 2011. Dorsolateral prefrontal cortex drives mesolimbic dopaminergic regions to initiate motivated behavior. Journal of Neuroscience 31(28):10340-10346. 角色：前额叶到多巴胺系统调控链条的关键证据。为什么关键：把 motivated behavior 与前额叶驱动的中脑多巴胺系统联起来，支撑本文关于 VTA/dopamine 神经情境的论证。",
+              "Clewett D, Huang R, Velasco R, Lee T-H, Mather M. 2018. Locus coeruleus activity strengthens prioritized memories under arousal. Journal of Neuroscience 38(6):1558-1574. 角色：LC/noradrenaline 路径代表文献。为什么关键：为本文区分 dopamine 与 noradrenaline 两条调制路径提供直接支撑，尤其对应目标相关、优先化记忆的形成。"
+            ]
+          }
+        },
+        {
+          "id": "irisa-addiction",
+          "kind": "article",
+          "title": "The Impaired Response Inhibition and Salience Attribution Model of Drug Addiction: Recent Neuroimaging Evidence and Future Directions",
+          "authors": [
+            "Ahmet O. Ceceli",
+            "Yuefeng Huang",
+            "Greg Kronberg",
+            "Natalie McClain",
+            "Sarah G. King",
+            "Eduardo R. Butelman",
+            "Nelly Alia-Klein",
+            "Rita Z. Goldstein"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-040725-025923",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-040725-025923",
+          "abstract": "Originally postulated in 2001, the impaired response inhibition and salience attribution (iRISA) model of addiction highlights the prefrontal cortex (especially the orbitofrontal, dorsolateral, anterior cingulate, and inferior frontal regions) as central to drug addiction symptomatology. Accordingly, drug cues assume a heightened salience and value that overpower alternative reinforcers, with a concomitant decrease in inhibitory control, especially in a drug-related context. These processes may manifest in metacognitive impairments (e.g., self-awareness of choice), obstructing insight into illness, as a function of recency of drug use. In this review, we update the neurobehavioral evidence for iRISA two decades later, emphasizing the robust measurement of the iRISA interaction (between a drug-related cue/context and a cognitive-behavioral function), and highlight relevant individual differences (e.g., drug use severity, craving). Crucially, we describe data suggesting functional recovery (with abstinence, treatment, and other emerging modalities) and the need for identifying valid outcome biomarkers. We end by highlighting recent developments in artificial intelligence (e.g., natural language processing applied to spontaneous speech) and computational modeling, and call for enhanced ecological validity to facilitate dynamic and clinically meaningful neural explorations in drug addiction.",
+          "primarySubfield": "临床与健康干预",
+          "secondaryTags": [
+            "成瘾",
+            "抑制控制",
+            "神经影像",
+            "恢复指标"
+          ],
+          "subfieldRationale": "文章更新成瘾的 iRISA 模型，关注临床症状、治疗恢复与生物标记，因此归入临床与健康干预。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "这篇综述要纠正一种过于静态的成瘾理解：早期 iRISA 模型指出成瘾是药物线索显著性压倒其他强化物并伴随抑制控制下降，但二十多年后，领域需要重新回答这个模型在神经影像与治疗研究中究竟还能解释什么、又缺了什么。",
+            "l2CoreArgument": "作者的核心推进是把 iRISA 从经典病理描述更新为可测量、可比较、可追踪恢复的神经行为框架。药物相关情境会放大线索显著性与主观价值，同时压低抑制控制和元认知觉察；这一交互应被稳健测量，而不是只看单一脑区活性。文章进一步指出，成瘾严重度、渴求、近期使用史会调节这一模式；随着戒断、治疗和新型干预推进，功能恢复是可能的，因此领域必须寻找有效结局生物标记，并提高生态效度，避免让实验室线索任务脱离真实成瘾情境。",
+            "l3ConceptHandles": [
+              "抑制控制：不是一般执行功能的背景指标，而是会在药物线索情境下被系统性压制的关键环节。",
+              "显著性归因：作者把它从对药物刺激的单纯偏好，推进为情境化的价值放大过程，必须与控制失败一起测量。",
+              "临床结局生物标记：作者强调更新后的 iRISA 不能停留在解释病理，还要产出能追踪恢复、治疗反应和个体差异的有效指标。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章反向给成瘾神经影像研究施压：如果模型只能在实验室任务里成立，却无法解释真实世界中的复发、恢复和治疗差异，它就不算完成。它也推动心理学把症状、认知控制、元认知和语言行为等多种证据整合起来，而不是继续依赖碎片化单指标研究。",
+            "l5PivotalRefs": [
+              "Goldstein RZ, Volkow ND. 2002. Drug addiction and its underlying neurobiological basis: neuroimaging evidence for the involvement of the frontal cortex. American Journal of Psychiatry 159(10):1642-1652. 角色：iRISA 原始提出文献。为什么关键：这是 I-RISA 命名与核心框架的奠基工作，把成瘾重新表述为显著性归因失衡与抑制控制受损的联动问题。",
+              "Goldstein RZ, Volkow ND. 2011. Dysfunction of the prefrontal cortex in addiction: neuroimaging findings and clinical implications. Nature Reviews Neuroscience 12(11):652-669. 角色：前额叶版本的系统更新。为什么关键：把 iRISA 更明确地落到 PFC 各子区及其临床含义上，是 2002 模型后的关键理论升级。",
+              "Zilverstand A, Huang AS, Alia-Klein N, Goldstein RZ. 2018. Neuroimaging impaired response inhibition and salience attribution in human drug addiction: a systematic review. Neuron 98(5):886-903. 角色：现代神经影像综述桥梁。为什么关键：系统整合 2010 年后的人类成瘾神经影像证据，是 2026 这篇继续更新 iRISA 神经证据时最直接的桥接文献。"
+            ]
+          }
+        },
+        {
+          "id": "temporal-scaffolding",
+          "kind": "article",
+          "title": "The Temporal Scaffolding of Sensory Organization",
+          "authors": [
+            "Pawan Sinha",
+            "Lukas Vogelsang",
+            "Marin Vogelsang",
+            "Albert Yonas",
+            "Sidney Diamond"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-032525-040352",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-032525-040352",
+          "abstract": "How a developing nervous system discovers meaning in complex sensory inputs has typically been examined separately for each sensory modality. Even as studies have uncovered modality-specific strategies, it remains unclear whether common principles underlie such discovery. Here, we pursue the thesis that the detection and exploitation of temporal regularities may provide a unifying mechanism for sensory organization across modalities. We synthesize research spanning neurophysiology and cognitive neuroscience and incorporate results from theoretical computer science. This integration supports the conclusion that time may be the fundamental dimension along which the brain organizes its sensorium and that the computational complexity of this problem is rendered tractable by ecologically appropriate heuristics. This proposal suggests the centrality of temporal processing in perceptual development, with implications for studies of typical and atypical development, clinical populations, and computational modeling.",
+          "primarySubfield": "感知发展与跨模态组织",
+          "secondaryTags": [
+            "感觉组织",
+            "时间规律",
+            "知觉发展",
+            "计算建模"
+          ],
+          "subfieldRationale": "文章提出时间规律是跨模态感觉组织的统一机制，核心落在知觉发展与感觉组织。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "作者要纠偏的是一个长期默认设定：感觉组织通常按视觉、听觉、触觉等模态分别研究，于是我们容易把感觉如何变得有意义理解成一组彼此平行的模态内问题。文章要推进的是更统一的看法：跨模态感觉组织可能共享同一个更底层的组织原则，而这个原则就是时间规律。",
+            "l2CoreArgument": "核心论点是：时间规律的探测与利用，可能是跨模态感觉组织的统一机制，甚至是大脑组织感知世界的基础维度。神经生理、认知神经科学和理论计算机科学的证据汇合后显示，连续、同步、条件概率和时序依赖等时间特征更像共同线索；而纯粹穷举计算过于复杂，因此大脑依赖生态上合适的启发式把问题变得可处理。由此，时间加工在知觉发展、非典型发展、临床人群和计算建模里都应被放到中心位置。",
+            "l3ConceptHandles": [
+              "时间规律检测：把 simultaneity、contiguity、contingency 视为感觉输入变得可组织、可分组的核心线索。",
+              "跨模态统一机制：不再把视觉组织、听觉组织、动作感知各自封闭处理，而是寻找共同的时序计算原则。",
+              "生态启发式：大脑并非最优穷举求解，而是利用环境中稳定可用的时序结构降低计算复杂度。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章迫使心理学重新审视两个默认边界：第一，知觉研究不该只在模态内找答案；第二，发展研究不该只描述年龄变化，而应解释系统如何从流动输入中发现结构。它也把心理学往更强的跨学科整合方向推了一步，要求发展心理学、认知神经科学和计算建模共享同一套问题表述。",
+            "l5PivotalRefs": [
+              "Aslin RN, Saffran JR, Newport EL. 1998. Computation of conditional probability statistics by 8-month-old infants. Psychological Science 9(4):321-324. 角色：时间序列统计学习起点。为什么关键：说明发展中的心智能从连续输入里抽取时间统计结构，是本文时间规律检测主张的经典行为证据。",
+              "Bi GQ, Poo MM. 1998. Synaptic modifications in cultured hippocampal neurons: dependence on spike timing, synaptic strength, and postsynaptic cell type. Journal of Neuroscience 18(24):10464-10472. 角色：时序依赖可塑性的神经机制基础。为什么关键：为时间本身如何塑造感觉组织提供可实现的神经层机制，是从计算与发展走向神经实现的重要支点。",
+              "Binder M. 2015. Neural correlates of audiovisual temporal processing-comparison of temporal order and simultaneity judgments. Neuroscience 300:432-447. 角色：跨模态时间绑定证据。为什么关键：把时间加工从单模态学习推进到视听整合与 simultaneity/order judgments，支撑本文的跨模态统一框架。"
+            ]
+          }
+        },
+        {
+          "id": "object-recognition-construct",
+          "kind": "article",
+          "title": "Is Domain-General Object Recognition Ability a Novel Construct?",
+          "authors": [
+            "Conor J.R. Smithson",
+            "Isabel Gauthier"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-020325-034053",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020325-034053",
+          "abstract": "Domain-general object recognition (o) is the ability to discriminate between objects at the subordinate level. It describes the general ability that applies across object categories, in contrast to abilities that apply only to a specific category. Interest in this ability emerged from vision research and cognitive neuroscience. However, research into high-level visual abilities has been relatively independent of the wider literature on individual differences in abilities. This review seeks to bridge this gap. To assess whether o represents a novel construct, we compare it with the closest preexisting constructs. We argue that abilities such as visual memory and perceptual speed share conceptual overlap with o, but none of these abilities have the kind of subordinate-level discrimination at their core that o does. Despite theoretical differences, some tests of these constructs may serve as adequate indicators of o. We also connect o to theory about the structure of cognitive abilities.",
+          "primarySubfield": "认知、表征与空间思维",
+          "secondaryTags": [
+            "视觉认知",
+            "物体识别",
+            "个体差异",
+            "能力结构"
+          ],
+          "subfieldRationale": "文章讨论高水平视觉识别能力与能力结构的关系，属于认知表征和视觉能力研究。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "作者要解决的是一个构念边界问题：视觉研究和认知神经科学里提出的 domain-general object recognition ability，究竟真是一个新能力，还是旧构念换了名字。文章在纠偏视觉领域与能力个体差异研究长期脱节的局面，试图把高水平视觉识别重新放回更广的能力结构讨论里。",
+            "l2CoreArgument": "核心论点是：o 与视觉记忆、感知速度等已有能力存在重叠，但其核心并不相同，因为 o 的中心是跨类别的 subordinate-level discrimination。文章先给出 o 的定义，再与最相近的旧构念逐一比较，说明它们共享部分方差却未把精细物体辨别放在核心位置；同时承认部分既有测验可作为 o 的近似指标，最后把 o 接回一般能力结构理论，讨论它应如何在更大的心理测量框架中被安置。",
+            "l3ConceptHandles": [
+              "domain-general object recognition：关键不是识别某一专门类别，而是跨类别保持精细物体辨别能力。",
+              "构念重叠与区分：视觉记忆、感知速度等与 o 有交叠，但交叠不等于同一构念。",
+              "能力结构整合：o 不只属于视觉认知，也属于个体差异与潜变量建模的问题。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章对心理学的反哺主要在方法论层面：它要求视觉认知研究不能只在实验范式里讨论效应大小，也要回答构念是否稳定、是否可测、在能力结构里处于什么层级。同时它也提醒能力研究，传统智力或速度框架可能低估了高水平视觉辨别这种更具体、但并不狭窄的能力维度。",
+            "l5PivotalRefs": [
+              "Tanaka JW, Gauthier I. 2000. Expertise in object and face recognition. Psychology of Learning and Motivation 36. 角色：从专家识别到精细辨别的理论起点。为什么关键：把物体识别能力定义到 expert-level、subordinate-level discrimination，是后来提出 domain-general object recognition ability 的概念前史。",
+              "McGugin RW, Richler JJ, Herzmann G, Speegle M, Gauthier I. 2012. The Vanderbilt Expertise Test reveals domain-general and domain-specific sex effects in object recognition. Vision Research 69:10-22. 角色：能力测量工具与因子化证据。为什么关键：提供跨多个物体类别测量 object recognition 的方法基础，是把单一类别表现上升为一般能力讨论的关键证据。",
+              "Gauthier I. 2018. Domain-specific and domain-general individual differences in visual object recognition. Current Directions in Psychological Science 27(2):97-102. 角色：把高水平视觉识别接回个体差异研究。为什么关键：直接把视觉识别能力放进个体差异与能力结构框架，为 2026 这篇讨论 o 是否是新构念提供最近的综述枢纽。"
+            ]
+          }
+        },
+        {
+          "id": "sustained-attention",
+          "kind": "article",
+          "title": "A Way Forward for Sustained Attention Research: Insights from the Deep Past",
+          "authors": [
+            "Bonnie J. Humphrey",
+            "Ximena J. Nelson",
+            "William S. Helton"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-012125-121408",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-012125-121408",
+          "abstract": "The mechanistic underpinnings of sustained attention, vigilance, and the ability to continue responding to critical stimuli over time, despite decades of research, are not well understood. Although sustained attention is vital for survival and is studied in many taxa, a lack of comparative work and a greater research focus on the high-level psychological aspects of human sustained attention performance have hindered progress in our understanding of it. We posit that an interdisciplinary approach between the biological and psychological fields, involving research on humans and nonhuman animals, will illuminate the biological mechanisms involved. A key obstacle to a comparative approach is the vast terminology used to illustrate similar phenomena across disciplines. We compare the research on sustained attention in humans and animals, showing that the comparative gap is not insurmountable. To resolve the communication issue, we outline the different terms used and suggest future directions to encourage productive engagement between the two fields. Additionally, we propose that an interdisciplinary perspective will be advantageous for developing countermeasures to declining sustained attention.",
+          "primarySubfield": "注意、正念与认知控制",
+          "secondaryTags": [
+            "持续注意",
+            "比较研究",
+            "警觉性",
+            "跨物种"
+          ],
+          "subfieldRationale": "文章聚焦持续注意的机制与跨物种比较，核心是注意系统与认知控制的机制澄清。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "作者指出：持续注意研究做了近百年，机制却仍不清楚，关键障碍在于两头脱节。一头是心理学过度聚焦人类高阶表现指标，另一头是生物学与比较研究早已在不同物种上研究相近过程，却因术语和方法分裂而无法对话。文章试图把讨论从人类实验里的 vigilance decrement 推进到跨物种、跨层级、可追索到深层生物机制的 sustained attention。",
+            "l2CoreArgument": "核心论点是：持续注意的下降不是心理学内部一个孤立的绩效问题，而是一个跨物种、跨学科、可由比较研究和进化深时视角共同澄清的生物心理机制问题。文章先说明持续注意对生存至关重要，人类高风险岗位与动物反捕食、觅食情境在功能上并不遥远；再指出心理学虽然稳定描述出 vigilance decrement，但机制解释仍薄弱。真正难点不完全是现象不可比，而是术语混乱、测量口径不一致。作者据此主张以 sustained attention 作为跨学科公共语言，把人类与非人动物研究接起来，并把注意衰退重新接回唤醒、睡眠觉醒轴、非联结学习与突触可塑性等更深生物机制。",
+            "l3ConceptHandles": [
+              "vigilance 与 sustained attention 的术语整编：作者主张以更可跨域对接的 sustained attention 作为公共术语，并把术语统一本身当成机制研究的前提。",
+              "vigilance decrement、response decrement 与 habituation 的关系：作者把这些现象放回同一功能谱系中比较，认为其差异不应遮蔽共享机制。",
+              "隐式注意、自愿注意与生物机制的连续体：持续注意不能只被当作高阶认知控制问题，而应纳入唤醒、睡眠样波动与学习机制。"
+            ],
+            "l4DisciplinaryFeedback": "它迫使心理学承认：仅靠人类实验室中的表现曲线和任务效应，无法解释持续注意的机制，领域长期停留在现象学描述层。文章也对高阶认知化的默认框架提出压力测试，要求心理学改造自己的任务与术语体系，使研究结果可以与比较生物学、动物行为学和神经机制研究真正互通。",
+            "l5PivotalRefs": [
+              "Mackworth NH. 1948. The breakdown of vigilance during prolonged visual search. Quarterly Journal of Experimental Psychology. 角色：持续注意与 vigilance decrement 的经典起点。为什么关键：界定长时间监测中表现下降这一基础现象，是后续所有机制争论的出发点。",
+              "Mackworth JF. 1968. Vigilance, arousal, and habituation. Psychological Review. 角色：把警觉性下降与唤醒、习惯化机制直接连接起来。为什么关键：让持续注意不再只是绩效曲线，而成为可讨论生物机制的问题。",
+              "Dukas R, Kamil AC. 2000. The cost of limited attention in blue jays. Behavioral Ecology. 角色：跨物种比较锚点。为什么关键：把持续注意问题从人类实验扩展到动物行为生态，支撑文章提出的比较研究进路。"
+            ]
+          }
+        },
+        {
+          "id": "human-rationality",
+          "kind": "article",
+          "title": "Human Rationality",
+          "authors": [
+            "Ulrike Hahn"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-020425-020958",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020425-020958",
+          "abstract": "This article provides a critical overview of research on human rationality. Rationality research poses a number of unusual challenges to psychologists. For one, it is unusually interdisciplinary and involves research conducted in adjacent disciplines (e.g., economics, education, communication, computer science and philosophy), not all of which are accessible with psychological training. What underlies this diversity, however, is an arguably even more unusual feature: the fact that even purely descriptive research, focused on what we actually do, cannot proceed without reference to normative considerations, that is, considerations of what we ought to do. Empirical results can thus be understood only with some understanding of the relevant norms of rationality. This article introduces the range of relevant frameworks, followed by examples of the different ways these frameworks are put to use. The bulk of the article then surveys research findings on human rationality across the core areas of (probability) judgment, reasoning, decision-making, and argumentation. Two final sections provide cross-cutting themes, one on the contrast (and interrelationship) between individual and collective rationality and one on the unique challenges of linking rationality research to real-world concerns.",
+          "primarySubfield": "判断、决策与行为改变",
+          "secondaryTags": [
+            "理性",
+            "推理",
+            "概率判断",
+            "规范性"
+          ],
+          "subfieldRationale": "文章系统梳理判断、推理、决策与论证中的理性问题，是典型的判断与决策研究。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "作者的问题意识不是简单回答人类到底理不理性，而是指出：理性研究在心理学中有一个结构性难题，任何描述性研究都无法离开规范性标尺。文章试图把讨论从口水式的理性与非理性总判决，推进到对规范体系、其在经验研究中的用途、以及不同研究领域之间关系的系统厘清。",
+            "l2CoreArgument": "核心论点是：人类理性研究的关键不在于给出一个总分式 verdict，而在于明确所采用的规范标准、这些标准在经验研究中的不同用途，以及在判断、决策、推理、论证、个体与集体层面上偏离究竟意味着什么。文章从逻辑、概率、决策理论和博弈论等规范系统谈起，指出它们不仅用于判错，也用于任务分析、功能解释和方法基准；再系统梳理判断、推理、决策与论证四大经典领域，说明所谓非理性往往取决于任务解释、规范选择与评价尺度，而不是单一事实。最终文章将 bounded rationality、个体与集体理性以及现实世界应用放到同一框架中，要求心理学提出更具体的问题：在什么规范下、什么任务里、为何偏离、偏离是否重要。",
+            "l3ConceptHandles": [
+              "规范性与描述性的不可分离：作者要求明确规范来源及其用途，强调 is 与 ought 不能混同，但也不能假装彼此无关。",
+              "概率与贝叶斯一致性：文章把概率论既当作规范基础，也当作连接判断、推理、论证等分散领域的公共形式语言。",
+              "个体理性、集体理性与 bounded rationality：作者将社会聚合、合作结构与资源约束重新纳入理性研究，打破单纯个体主义框架。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章迫使心理学在谈偏差、错误、非理性前先交代评判标准，减少用模糊规范偷渡强结论的做法。它推动原本碎片化的判断、决策、推理、论证研究在共享形式工具下重新整合，也批评大写的人类非理性这种总判决，要求心理学转向更具体的问题：偏离发生在何处、为何发生、是否真的重要、在何种现实约束下仍算合理。",
+            "l5PivotalRefs": [
+              "Savage LJ. 1954. The Foundations of Statistics. Wiley. 角色：规范性概率与选择标准的核心基线。为什么关键：提供理性研究中最重要的 normative baseline。",
+              "Simon HA. 1955. A behavioral model of rational choice. Quarterly Journal of Economics. 角色：bounded rationality 的奠基文献。为什么关键：强调现实认知限制，使理性研究转向有限资源下的决策。",
+              "Tversky A, Kahneman D. 1974. Judgment under uncertainty: Heuristics and biases. Science. 角色：经验性非理性研究的标志文献。为什么关键：把人类判断偏差推到中心位置，构成本文回顾 rationality debate 的关键节点。"
+            ]
+          }
+        },
+        {
+          "id": "time-influence",
+          "kind": "article",
+          "title": "Time's Influence: A Systematic Review of Biases in Intertemporal Decision-Making",
+          "authors": [
+            "Pelin Gülüm Taş",
+            "Yousef Maknoon",
+            "Jafar Rezaei"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-091924-040158",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-091924-040158",
+          "abstract": "Cognitive biases significantly influence decision-making by distorting how individuals perceive and evaluate outcomes over time. This systematic review synthesizes research from various domains, including behavioral economics, psychology, and health, to explore six time-related biases affecting intertemporal judgments and trade-offs. We analyze the underlying mechanisms of each bias, map their interrelationships, and uncover their impacts on both individual choices and societal decisions. Drawing upon empirical evidence, we propose tailored strategies to mitigate the adverse effects of these biases. Our findings contribute to the literature not only by enhancing the understanding of time-related cognitive biases but also by providing practical insights for improving decision-making and policy design aimed at promoting long-term well-being. The review concludes by highlighting critical gaps in the literature and outlining a future research agenda to further investigate and address biases in intertemporal decision-making.",
+          "primarySubfield": "判断、决策与行为改变",
+          "secondaryTags": [
+            "跨期决策",
+            "认知偏差",
+            "长期福祉",
+            "政策设计"
+          ],
+          "subfieldRationale": "文章聚焦跨期决策中的时间偏差及其缓解策略，直接属于决策偏差与行为改变议题。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "作者的问题意识是：跨期决策研究很多，但关于时间如何系统性扭曲判断的证据仍然碎片化。现有文献往往分别讨论某一个异常或某一种偏差，缺少对时间相关偏差的总体地图、相互关系和去偏策略综述。",
+            "l2CoreArgument": "核心论点是：跨期决策中的非理性并不只是单一的折扣异常，而是由至少六类时间相关偏差共同塑造；理解这些偏差的机制、相互作用和缓解路径，才能真正改进长期福祉相关的判断与决策。文章先以 time preference 与 exponential discounting 作为跨期选择的基线，再系统综述 present bias、projection bias、recency bias、duration neglect、impact bias、planning fallacy 等偏差的机制、经验证据、应用后果与缓解策略，最后提出应从单偏差研究转向偏差网络、情境差异与针对性干预设计。",
+            "l3ConceptHandles": [
+              "时间偏好与指数折扣：作者保留其作为背景标尺，但把真正解释重点转向多类时间偏差如何系统性扭曲该基线。",
+              "未来模拟与预测类偏差：projection bias、impact bias、planning fallacy 共同说明人们如何从当下状态错误想象未来偏好、情绪和任务时长。",
+              "偏差关系图与去偏策略：作者强调跨期偏差不是单发事件，而可能联动、叠加，并可通过情境设计与针对性干预部分缓解。"
+            ],
+            "l4DisciplinaryFeedback": "它推动心理学从单个偏差、单个任务、单个效应的研究习惯，转向时间偏差之间的结构关系与交互影响；也要求跨期决策研究把认知、情绪预测、记忆、未来想象、自我控制和情境设计放在同一分析平面上，而不是分散在不同子领域。它最终把心理学重新拉回干预与政策可用性，强调偏差研究不能止于指出人会犯错，还要说明错是如何累积、何处最有害、如何减轻。",
+            "l5PivotalRefs": [
+              "Samuelson PA. 1937. A note on measurement of utility. Review of Economic Studies. 角色：跨期决策与折扣建模的规范性起点。为什么关键：提供 intertemporal choice 研究最早的 formal baseline。",
+              "Laibson D. 1997. Golden eggs and hyperbolic discounting. Quarterly Journal of Economics. 角色：present bias 与 hyperbolic discounting 的代表性转折文献。为什么关键：说明人类跨期选择偏差如何偏离经典指数折扣模型。",
+              "Loewenstein G, O'Donoghue T, Rabin M. 2003. Projection bias in predicting future utility. Quarterly Journal of Economics. 角色：把跨期偏差推进到未来偏好误预测。为什么关键：让文章不只讨论折扣异常，也讨论人们如何系统性误判未来自我。"
+            ]
+          }
+        },
+        {
+          "id": "mia-framework",
+          "kind": "article",
+          "title": "The Mindfulness Internal Attention (MIA) Framework: Uncovering the Attentional Mechanisms of Mindfulness Training",
+          "authors": [
+            "Yuval Hadash",
+            "Omer Dar",
+            "Iftach Amir",
+            "Todd S. Braver",
+            "Amit Bernstein"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-012925-030843",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-012925-030843",
+          "abstract": "Attention is theorized to have a definitive role in mindfulness and its salutary effects. Yet, findings from more than two decades of research testing this central theoretical premise have been surprisingly mixed. To account for this paradoxical disparity between theory and findings, we propose the Mindfulness Internal Attention (MIA) framework. We theorize and review initial findings suggesting that mindfulness training primarily targets internal attention processes, which operate on internally generated or stored information and experience. Additionally, we theorize and review findings suggesting that mindfulness training affects executive functions and working memory processes shared between internal attention and late-stage external attention. In contrast, we theorize and review findings suggesting that mindfulness training does not affect early-stage external attention processes, which do not share cognitive resources with internal attention. Finally, we propose methodological innovations and outstanding questions for future research to advance our understanding of the attentional mechanisms of mindfulness training.",
+          "primarySubfield": "注意、正念与认知控制",
+          "secondaryTags": [
+            "正念",
+            "内部注意",
+            "执行功能",
+            "工作记忆"
+          ],
+          "subfieldRationale": "文章用 MIA 框架解释正念训练的注意机制，落在注意控制与正念机制交叉处。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "文章要解决的核心悖论是：正念训练理论上一直把注意训练当作关键机制，但过去二十多年关于正念改善注意的实证结果却高度混杂。作者认为，问题不一定是正念不影响注意，而是研究把注意当成一个单一对象，过多使用外部注意任务去检验一种主要训练内部注意的实践，因此测错了靶。",
+            "l2CoreArgument": "核心论点是：正念训练的主要靶点不是一般性的、无差别的注意力提升，而是以内部注意为核心，并通过与晚期外部注意共享的执行功能与工作记忆过程产生部分外溢效应。文章提出 MIA 框架，将内部注意与外部注意区分开来，认为正念首先训练的是对呼吸、身体感觉、念头、情绪等内部表征的选择、维持、监测与切换；同时正念也会影响与内部注意共享资源的执行控制和工作记忆，因此可能改善晚期外部注意过程，而对早期外部注意则不应预期出现稳定提升。",
+            "l3ConceptHandles": [
+              "内部注意与外部注意的区分：作者提出 MIA 框架，说明正念主要作用于内部注意，对外部注意的影响是有边界、有阶段差异的。",
+              "元觉察与去中心化：文章把它们重新纳入内部注意控制架构，视为正念训练的核心过程而非外围副产品。",
+              "执行功能与工作记忆的共享资源解释：正念在部分认知任务上的效应，不应被读成全面提升注意力，而是共享控制过程的迁移。"
+            ],
+            "l4DisciplinaryFeedback": "它要求正念心理学停止把注意当成未分化的一般能力，并重新精细化构念与任务匹配；也质疑领域中过度依赖自陈量表和通用外部注意任务的做法，推动发展可直接测量内部注意的实验方法。文章把正念研究从泛化的健康叙事拉回到机制层，迫使心理学明确：究竟训练了什么过程，哪些结果是核心机制，哪些只是下游收益。",
+            "l5PivotalRefs": [
+              "Kabat-Zinn J. 2003. Mindfulness-based interventions in context: Past, present, and future. Clinical Psychology: Science and Practice. 角色：现代正念科学与干预研究的奠基文本。为什么关键：构成本文讨论 mindfulness training 的历史起点。",
+              "Bishop SR, Lau M, Shapiro S, Carlson L, Anderson ND, Carmody J, et al. 2004. Mindfulness: A proposed operational definition. Clinical Psychology: Science and Practice. 角色：把正念转成可操作心理学构念的关键文献。为什么关键：为 MIA 框架中的 attentional mechanisms 提供清晰定义入口。",
+              "Chun MM, Golomb JD, Turk-Browne NB. 2011. A taxonomy of external and internal attention. Annual Review of Psychology. 角色：区分 internal attention 与 external attention 的理论支架。为什么关键：直接支撑 MIA 对 internal attention 的重新组织。"
+            ]
+          }
+        },
+        {
+          "id": "identity-needs",
+          "kind": "article",
+          "title": "Identity Needs in Intergroup Relations: Between the Age of Apology and Victimhood Culture",
+          "authors": [
+            "Nurit Shnabel",
+            "Johannes Ullrich"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-022625-112840",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-022625-112840",
+          "abstract": "Around the turn of the millennium, the social representation of minorities in Western societies shifted from marginalized deviants to victims of injustice, prompting calls for recognition and reparation. Drawing on the social identity tradition, we argue that this shift in representation gave rise to new identity needs, with victim groups seeking to restore their agentic identity and perpetrator groups their moral identity. We review two research trends that emerged from this shift in representation and its relationship to identity needs. The first trend focuses on group apologies, forgiveness, and corresponding gestures. We suggest that these gestures can promote reconciliation by satisfying group members' identity needs; we also acknowledge the limitations and critiques of using the apology-forgiveness cycle to promote intergroup reconciliation. The second trend concerns groups' engagement in competitive victimhood. We propose that this engagement stems from the same identity needs and discuss its consequences and strategies for reducing it. Finally, we outline future directions and practical takeaways and reflect on the changing zeitgeist.",
+          "primarySubfield": "社会认同与群际关系",
+          "secondaryTags": [
+            "社会认同",
+            "群际关系",
+            "道歉",
+            "受害者文化"
+          ],
+          "subfieldRationale": "文章围绕群际关系中的身份需求、道歉与竞争性受害展开，属于社会认同与群际关系研究。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "文章要解释一个更深的时代转向：当西方社会把少数群体从越轨者、边缘人改写为受害者之后，群际关系中的核心心理动力发生了什么变化。作者主张，新的历史语境催生了新的身份需要：历史受害群体更急于恢复能动性与发声权，历史加害群体更急于修复道德身份与被重新接纳的资格。",
+            "l2CoreArgument": "核心论点是：历史受害群体与历史加害群体在同一历史转型中分别形成了不同的身份修复需求，而道歉、宽恕、和解与竞争性受害，都是这些需求的不同出口。文章先回顾少数群体社会表征的历史转变，再把它接到社会认同传统上，提出受害群体主要想恢复能动身份，加害群体主要想恢复道德身份。于是，道歉在心理上把控制权与价值确认交还给受害群体，宽恕则向加害群体传递再接纳的可能；而当身份需要失配时，群体就会争夺真正受害者地位，以保卫道德高地、资源和正当性。",
+            "l3ConceptHandles": [
+              "身份需要：作者把它拆成受害群体的能动性修复与加害群体的道德性修复，避免把和解理解成单向度的态度改善。",
+              "道歉与宽恕循环：文章将其解释为身份商品的交换机制，而不只是一次性道德仪式。",
+              "竞争性受害：作者把它还原为身份需要失配后的心理出口，而不是单纯话语操弄。"
+            ],
+            "l4DisciplinaryFeedback": "它逼社会心理学把积极社会认同从一个统称，改造成有维度、有历史位置差异的模型；也把群际心理学从传统的偏见和歧视范式，推进到过渡正义、国家道歉、纪念政治与 DEI 反弹等更宏观的历史制度场景。文章提醒心理学不要把和解浪漫化：满足身份需要可以通向团结，也可以通向竞争性受害、集体自恋与新的对抗。",
+            "l5PivotalRefs": [
+              "Shnabel N, Nadler A. 2008. A needs-based model of reconciliation: Satisfying the differential emotional needs of victim and perpetrator as a key to promoting reconciliation. Journal of Personality and Social Psychology. 角色：身份需要模型的核心来源。为什么关键：直接对应受害者能动性与加害者道德性修复。",
+              "Noor M, Shnabel N, Halabi S, Nadler A. 2012. When suffering begets suffering: The psychology of competitive victimhood between adversarial groups in violent conflicts. Personality and Social Psychology Review. 角色：竞争性受害研究的代表性综述。为什么关键：解释文章后半部关于 victimhood competition 的核心机制。",
+              "Campbell B, Manning J. 2018. The Rise of Victimhood Culture: Microaggressions, Safe Spaces, and the New Culture Wars. Palgrave Macmillan. 角色：victimhood culture 的时代语境文献。为什么关键：为副标题中的 victimhood culture 提供文化诊断背景。"
+            ]
+          }
+        },
+        {
+          "id": "attitudes-intentions-behavior-change",
+          "kind": "article",
+          "title": "Attitudes, Intentions, and Behavior Change",
+          "authors": [
+            "Mark Conner",
+            "Paul Norman"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-013125-042110",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-013125-042110",
+          "abstract": "Are attitudes or intentions related to behavior change? Does changing attitudes or intentions change behavior? These are important questions for increasing our understanding of the determinants of behavior and how to change behavior. This review employs four stages of the experimental medicine approach to answer these questions. First, attitudes and intentions have been identified as key determinants of behavior in many theories (identification stage). Second, correlational studies show that attitudes and intentions have small- to medium-sized relationships with behavior change, while experimental studies show that medium-sized changes in attitudes and intentions produce small-sized changes in behavior (validation stage). Third, evidence shows that interventions can change attitudes or intentions (engagement stage). Fourth, changes in attitudes and intentions at least partially mediate intervention effects on behavior change (intervention stage). A systematic program of experimental work is needed to extend our understanding of what works for whom, when, how, and for what behaviors.",
+          "primarySubfield": "判断、决策与行为改变",
+          "secondaryTags": [
+            "态度",
+            "意向",
+            "行为改变",
+            "干预机制"
+          ],
+          "subfieldRationale": "文章直接讨论态度与意向是否及如何推动行为改变，是行为改变研究的核心议题。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "这篇文章不是再问一遍态度和意向重不重要，而是把这个老问题改写成更严格的机制问题：如果心理学真想解释和改变行为，那么态度与意向究竟是不是可被操纵、能传导干预效果、并最终带来行为改变的因果靶点。",
+            "l2CoreArgument": "核心论点是：态度与意向确实是行为改变中的关键反思性决定因素，但它们通常只能带来有限幅度的行为变化；真正重要的不是是否相关，而是要分阶段检验它们何时是有效靶点、何时只是部分中介。文章用 experimental medicine 与 operating conditions 框架组织全文：先说明态度与意向为何仍值得研究，再区分态度的不同成分与意向的近端动机功能；随后分别检验相关证据、实验操纵证据、干预可塑性和中介效应，最后得出结论：它们既不能被抛弃，也不能被神化，领域需要更系统地研究 what works for whom, when, how, and for what behaviors。",
+            "l3ConceptHandles": [
+              "态度：作者坚持把态度放回具体行为层面，并强调工具性、认知面与体验性、情感面的区分。",
+              "行为意向：文章把它当作需要被实验操纵、被检验中介效应、并受条件约束的机制变量，而不是行为的同义词。",
+              "实验医学框架中的机制靶点：作者用分阶段检验把态度和意向纳入机制工程，区分相关、因果、可塑性与中介性。"
+            ],
+            "l4DisciplinaryFeedback": "它要求心理学停止把经典理论变量当作当然有效的解释器，尤其不能用横断面相关替代因果论证；也给态度研究本身施压：如果态度改变只能换来很小的行为改变，那么态度理论必须更认真面对行为情境、行为成本、习惯、规范与能力约束，而不能自足封闭。文章最终推动行为改变心理学从列变量清单转向机制审计。",
+            "l5PivotalRefs": [
+              "Fishbein M, Ajzen I. 1975. Belief, Attitude, Intention, and Behavior: An Introduction to Theory and Research. Addison-Wesley. 角色：态度与意向成为行为解释核心变量的经典源头。为什么关键：构成本文回顾行为改变理论的起点。",
+              "Ajzen I. 1991. The theory of planned behavior. Organizational Behavior and Human Decision Processes. 角色：整合态度、规范、控制感与意向的核心框架。为什么关键：是行为改变研究中最重要的理论支柱之一。",
+              "Webb TL, Sheeran P. 2006. Does changing behavioral intentions engender behavior change? A meta-analysis of the experimental evidence. Psychological Bulletin. 角色：检验意向是否真正推动行为改变的关键元分析。为什么关键：直接回应本文的中心问题。"
+            ]
+          }
+        },
+        {
+          "id": "psychology-of-crowd-behavior",
+          "kind": "article",
+          "title": "The Psychology of Crowd Behavior",
+          "authors": [
+            "John Drury"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-012125-121447",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-012125-121447",
+          "abstract": "This review describes the social identity approach to crowd behavior. Research based on the social identity approach to crowds has grown significantly in the last 20 years, both quantitatively and qualitatively. I organize the new research into three sections. First, I consider the recent findings on crowd density behaviors, heightened emotion in crowds, mass gatherings health, and crowd events that function to strengthen group identity. Second, I cover research on behavior in emergencies and discuss how models of crowd behavior have shaped policy and practice in emergency response. Third, I describe the recent research on psychological change in collective action, public order policing, and social influence. The increased number of practical applications demonstrates that the social identity research on the psychology of crowd behavior has value beyond the advances it has made in terms of theory.",
+          "primarySubfield": "社会认同与群体行为",
+          "secondaryTags": [
+            "群体行为",
+            "社会认同",
+            "集体行动",
+            "应急响应"
+          ],
+          "subfieldRationale": "文章以社会认同路径统摄群体密度、情绪、紧急事件、抗议与警务等问题，核心不是一般社会知觉，而是群体如何在共享身份下组织行为与经验。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "这篇综述要纠正的，是把人群默认理解为失控、传染、去个体化的旧图景。作者真正要回答的问题是：为什么一群人能够在高密度、高情绪、甚至高风险情境下并不必然陷入混乱，反而常常表现出协调、互助与规范化行动。",
+            "l2CoreArgument": "作者的核心论点是：群体行为的关键不在于个体理性被人群吞没，而在于共享社会认同如何重组规范、情绪、风险理解与行动协调。文章据此把近二十年的推进分成三条线索：第一，解释高密度集会中的安全、情绪升高和身份强化；第二，说明紧急事件中的合作、疏散与应急沟通为何取决于共享身份和管理者合法性；第三，把抗议、骚乱和公共秩序研究重新写成群体与警务之间的群际关系问题。于是，群体不再被当成危险噪音，而被当成一种有规范、有边界、有关系结构的集体现象。",
+            "l3ConceptHandles": [
+              "共享社会认同：决定人群中的他人是威胁、旁观者还是可协同行动的自己人，是理解互助、秩序与情绪放大的核心。",
+              "群体事件作为群际关系：很多关键现象不发生在人群内部，而发生在人群与警方、管理者、应急人员之间的互动中。",
+              "集体经验的正向转化：群体不只会制造风险，也会带来效能感、情绪高涨、健康收益与自我改变。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章反过来要求心理学和实践部门一起放弃“恐慌神话”和纯个体主义安全模型。它推动研究者把疏散、警务、公共沟通和大型活动管理建立在合法性、身份共享与规范协商之上，而不是继续把人群当作天然失序对象。",
+            "l5PivotalRefs": [
+              "Reicher S. 1996a. The Battle of Westminster: developing the social identity model of crowd behaviour in order to explain the initiation and development of collective conflict. 角色：争议性群体研究的理论奠基文献；为什么关键：它把骚乱与冲突从“失控暴民”改写为基于群际关系和共享身份的可解释行动。",
+              "Alnabulsi H, Drury J. 2014. Social identification moderates the effect of crowd density on safety at the Hajj. 角色：把社会认同模型推进到高密度大型集会安全的关键实证；为什么关键：它直接说明密度本身不自动导致危险，身份关系会改变人群中的安全体验与行为。",
+              "Drury J. 2018. The role of social identity processes in mass emergency behaviour: an integrative review. 角色：把社会认同路径系统接入紧急事件与应急响应的综合综述；为什么关键：它为本文第二部分关于疏散、合作与政策实践的展开提供了中枢框架。"
+            ]
+          }
+        },
+        {
+          "id": "dyadic-emotion-regulation",
+          "kind": "article",
+          "title": "Dyadic Emotion Regulation",
+          "authors": [
+            "Beyzanur Arican-Dinc",
+            "Shelly L. Gable"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-020325-033825",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020325-033825",
+          "abstract": "A robust approach to understanding dyadic emotion regulation needs to incorporate insights from affective science and relationship science. To date, research emerging from these two traditions has largely unfolded separately with limited cross-disciplinary collaboration. Here we review research from these two disciplinary perspectives, focusing on social support and dyadic coping in the close relationship literature and on extrinsic interpersonal emotion regulation in the affective science literature. We also present a framework of dyadic emotion regulation. This framework includes both affect-improving and affect-worsening processes that can be motivated by hedonic or instrumental goals and that can have effects not only on the emotions targeted for regulation but also on the relationship dynamics of the dyadic partners. We identify key gaps in the literature and directions for future research, and we conclude that recognition of the complex interplay between emotion regulation and relationship processes allows for deeper and more nuanced models of dyadic emotion regulation.",
+          "primarySubfield": "亲密关系与情绪调节",
+          "secondaryTags": [
+            "亲密关系",
+            "情绪调节",
+            "社会支持",
+            "双人应对"
+          ],
+          "subfieldRationale": "文章明确整合关系科学中的 social support 与 dyadic coping 研究工作，以及情绪科学中的 interpersonal emotion regulation 研究工作，核心对象是双人系统中的情绪调节。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "作者要纠正的，是情绪调节研究长期把调节单位默认成单个个体。一旦把亲密关系纳入视野就会发现，很多情绪并不是自己独自调的，而是在伴侣之间通过安慰、回避、鼓励、施压、共担或加剧情绪而被共同塑造。",
+            "l2CoreArgument": "核心论点是：理解 dyadic emotion regulation，必须把情绪科学与关系科学真正接起来，而不能让 social support、dyadic coping 和 interpersonal emotion regulation 各说各话。文章一方面从亲密关系研究里吸收 support 与 coping 的长期发现，另一方面从 affective science 引入外向型 interpersonal regulation 的目标、策略与结果视角，并据此提出一个双人情绪调节框架。这个框架强调：调节不只可能改善情绪，也可能恶化情绪；不只服务于享乐目标，也可能服务于工具性目标；而且它不仅改变当下情绪，还会回过头改写关系中的信任、回应性与互动模式。",
+            "l3ConceptHandles": [
+              "dyadic coping：把压力与应对从个人任务改写为双人系统中的共同管理，是关系科学进入本文的主入口。",
+              "interpersonal emotion regulation：强调人们会主动调节他人的情绪，而不只是管理自己的体验。",
+              "关系后果与情绪后果并存：一次调节互动的结果不能只看情绪有没有变好，还要看关系有没有被削弱、修复或重新分工。"
+            ],
+            "l4DisciplinaryFeedback": "这篇综述迫使情绪调节研究放弃纯内在化视角，也迫使关系研究不再把支持行为当作天然有益。对心理学的真正压力在于：今后需要同时测量目标、策略、可见性、回应性和关系后果，才能判断一次双人调节到底是有效帮助、关系投资，还是披着支持外衣的控制。",
+            "l5PivotalRefs": [
+              "Bodenmann G. 1997. Dyadic coping: a systematic-transactional view of stress and coping among couples: theory and empirical findings. 角色：关系科学中的奠基文献；为什么关键：它把压力与应对从个体单位改写成伴侣共同处理的系统过程，为本文吸收 dyadic coping 研究工作提供基础。",
+              "Bolger N, Amarel D. 2007. Effects of social support visibility on adjustment to stress: experimental evidence. 角色：社会支持分支中的关键机制证据；为什么关键：它说明支持并非越显性越好，帮助的可见性会改变调节效果，这正是双人情绪调节不能只看善意的典型例子。",
+              "Niven K, Totterdell P, Holman D. 2009. A classification of controlled interpersonal affect regulation strategies. 角色：interpersonal emotion regulation 的策略分类起点；为什么关键：它把调节他人情绪明确化、可测量化，使本文能够把 affective science 真正并入关系研究。"
+            ]
+          }
+        },
+        {
+          "id": "power-and-ideology-in-close-relationships",
+          "kind": "article",
+          "title": "Power and Ideology in Close Relationships",
+          "authors": [
+            "Nickola C. Overall",
+            "Matthew D. Hammond"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-012325-032022",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-012325-032022",
+          "abstract": "This review specifies how individuals’ relationship power (actor power) and their partners’ power (partner power) influence distinct behaviors in close relationships. High-power actors can promote their own needs, whereas low-power actors must inhibit their needs or enact aggression or manipulation to fight for their needs. Actors must also accommodate the needs of high-power partners but can neglect or may feel obliged to protect low-power partners. Structural power asymmetries outside relationships prompt ideologies that shape perceptions, expectations, and subsequent behavioral responses to power within relationships. Using gender ideologies to illustrate, competitive ideologies (hostile sexism) motivate aggression by those who fight for power or prompt inhibition by those who cede power. Cooperative ideologies (benevolent sexism) divide power, generating accommodation of partners’ needs in some domains and neglect in others. We emphasize the need to consider actor and partner power, relationship and structural power, power symmetries and asymmetries, and competitive and cooperative ideologies.",
+          "primarySubfield": "亲密关系、权力与性别意识形态",
+          "secondaryTags": [
+            "亲密关系",
+            "权力",
+            "性别意识形态",
+            "关系攻击"
+          ],
+          "subfieldRationale": "文章的理论中心是亲密关系中的 actor power、partner power 与结构性权力不对称，并用敌意与仁慈性别歧视说明意识形态如何塑造关系行为，明显落在关系权力与性别意识形态交叉处。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "作者要纠偏的是一种过于扁平的关系权力观：过去研究常把权力理解成单个行动者的资源高低，却较少同时处理伴侣权力、关系内不对称，以及关系外部结构性意识形态怎样进入亲密互动。结果是，我们知道权力重要，却说不清它到底怎样塑造照顾、压制、忽视、攻击和自我抑制。",
+            "l2CoreArgument": "核心论点是：亲密关系中的行为不能只由我有多少权力来解释，而要同时考虑 actor power、partner power、关系内对称或不对称位置，以及关系外部意识形态如何规定什么才算正当的权力使用。高权力者更容易推进自身需求，低权力者则更可能压抑自己、转向操控或攻击；同时，人们会因伴侣的高权力而迁就其需要，也可能因伴侣的低权力而忽视对方，或在某些意识形态下以保护之名重新分配权力。作者用 hostile sexism 和 benevolent sexism 说明，意识形态不是背景噪音，而是把结构性性别秩序翻译成日常关系脚本的机制。",
+            "l3ConceptHandles": [
+              "actor power 与 partner power：作者要求把自己和伴侣的权力位置分开处理，因为两者会推动不同的关系行为。",
+              "结构性权力与关系内权力的联动：关系不是密闭空间，外部性别秩序会通过预期、义务和正当化话语进入亲密互动。",
+              "hostile sexism 与 benevolent sexism：两者都在维护不平等，只是一个更像竞争性夺权，一个更像合作性分工。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章反过来逼关系研究把微观互动重新接回宏观结构，也逼性别意识形态研究停止停留在态度层面。它提醒心理学：如果不把权力位置、测量工具和意识形态脚本同时纳入，很多看似温和的关系行为其实可能是在再生产不平等。",
+            "l5PivotalRefs": [
+              "Agnew CR, Harman JJ, eds. 2019. Power in Close Relationships. 角色：亲密关系权力研究的领域级综合文献；为什么关键：它为本文区分权力来源、关系位置与行为后果提供了总框架。",
+              "Cross EJ, Overall NC, Low RST, McNulty JK. 2019. An interdependence account of sexism and power: men's hostile sexism, biased perceptions of low power, and relationship aggression. 角色：把性别意识形态直接接入亲密关系权力机制的关键实证；为什么关键：它具体展示 hostile sexism 如何通过低权力知觉与互动结构转化为关系攻击。",
+              "Bareket O, Fiske ST. 2023. A systematic review of the ambivalent sexism literature: hostile sexism protects men's power; benevolent sexism guards traditional gender roles. 角色：意识形态分化逻辑的核心综述；为什么关键：它清楚区分 hostile 与 benevolent sexism 在维持权力和研究工作性别角色中的不同功能，是本文后半部论证的直接支撑。"
+            ]
+          }
+        },
+        {
+          "id": "mens-self-and-identity",
+          "kind": "article",
+          "title": "Men's Self and Identity and Their Relations to Others in a Changing World",
+          "authors": [
+            "Colette Van Laar",
+            "Tony Holman",
+            "Sarah Grootjans",
+            "Aster Van Rossum"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-013125-041821",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-013125-041821",
+          "abstract": "As masculinities are changing, taking a social identity perspective on men and their relations with others helps to understand how men navigate their social world. Combining this with other common approaches in the psychology of gender, men, and masculinities, we review how such a perspective helps to understand men's differing health and well-being outcomes, work/family choices, and their responses to changing gender relations and other social developments (privilege, threat, allyship). In so doing, we emphasize that men's audiences (i.e., who precisely is watching them) play a key role in shaping these outcomes as well. For practitioners working in the fields of health and well-being, work and family, or gender equality, we identify key implications that follow from the reviewed research. We end our review with suggestions for future research.",
+          "primarySubfield": "性别、男性气质与社会认同",
+          "secondaryTags": [
+            "男性气质",
+            "社会认同",
+            "身份威胁",
+            "工作与健康"
+          ],
+          "subfieldRationale": "文章以社会认同视角重写男性研究，解释男性在健康、工作家庭选择、特权威胁与 allyship 中的差异反应，明显属于性别心理学与社会认同交叉研究。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "这篇综述要纠正的，不是男人有没有问题这种泛问，而是男性研究中一个更深的盲点：我们常把男性气质当成个体特质，却较少把它理解为在社会变迁中、在特定观众面前、在群体边界和身份威胁下被不断协商和表演的社会身份。",
+            "l2CoreArgument": "作者的核心论点是：要理解男性的健康、工作与家庭选择、对性别平等的支持或反弹，不能只靠稳定人格或固定男性气质脚本，而要引入社会认同视角。男性如何定义自己、感到受威胁、选择站队或结盟，取决于他们所处的群体位置、他们认为谁在看自己，以及哪些行为会被读作像男人或失去男人资格。文章因此把 privilege、threat 与 allyship 放进同一框架：社会变迁既可能被体验为身份损失，也可能被组织成更宽的男性位置重构。",
+            "l3ConceptHandles": [
+              "audiences：作者强调谁在观看、评判和回应男性行为，会深刻改变男性在健康、工作家庭和性别政治上的选择。",
+              "precarious manhood 与身份威胁：男性身份常被体验为需要不断证明、也容易被剥夺的地位，这让威胁反应成为理解 backlash 的关键。",
+              "男性身份的制度化场景：工作组织、家庭分工和公共平等议题并不是外部应用，而是男性身份被奖惩和再生产的核心场域。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章推动心理学停止把男性当成孤立个体来研究，而转向分析其所处的群体位置、观众结构和制度场景。它也提醒性别平等研究，男性的 allyship 与 backlash 都不能只被看成态度问题，而要被理解成身份管理、地位威胁和社会规范协调的结果。",
+            "l5PivotalRefs": [
+              "Vandello JA, Bosson JK. 2013. Hard won and easily lost: a review and synthesis of theory and research on precarious manhood. 角色：男性身份威胁研究的核心综述；为什么关键：它奠定了男性身份需要持续证明、也容易失去的基本命题，是本文讨论 threat 与 backlash 的关键支点。",
+              "Bosson JK, Taylor JN, Prewitt-Freilino JL. 2006. Gender role violations and identity misclassification: the roles of audience and actor variables. 角色：本文 audience 机制的经典证据；为什么关键：它直接说明男性在何种观众面前更容易把角色偏离体验为身份误判与威胁。",
+              "Berdahl JL, Cooper M, Glick P, Livingston RW, Williams JC. 2018. Work as a masculinity contest. 角色：把男性身份从个体层推到制度层的关键文献；为什么关键：它展示工作场所如何把男性气质变成竞争规则，支撑本文对工作、特权与社会角色选择的分析。"
+            ]
+          }
+        },
+        {
+          "id": "early-life-stress",
+          "kind": "article",
+          "title": "Early Life Stress Effects on Children's Biology, Behavior, and Health: Evidence, Mediators, Moderators, and Solutions",
+          "authors": [
+            "Nicole R. Bush",
+            "Alexandra D.W. Sullivan",
+            "Amanda Noroña-Zhou"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-072225-121053",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-072225-121053",
+          "abstract": "This review synthesizes and critiques research on early life adversity and stress effects on multidomain health outcomes in child samples to fill a gap in the literature that has largely focused on adults. Prioritizing evidence from meta-analytic and systematic reviews as well as findings from (quasi-)experimental or large prospective longitudinal studies, we integrate interdisciplinary findings to characterize patterns of evidence for stress associations with child outcomes, including mental, physical, and positive health; academic, social, and justice system-related domains; and intermediary phenotypes that may predict disease, including biomarkers. We note cohesive evidence for sensitive periods of susceptibility to stress exposure and describe key mediators and moderators of stress effects, especially family-level factors. Then we highlight interventions targeting malleable factors that hold promise for ameliorating the effects of stress on children. Leveraging a developmental lens, we conclude with field-wide limitations and propose future directions for stress and health research that centers child development.",
+          "readingStatus": "ready",
+          "primarySubfield": "发展、健康与压力暴露",
+          "secondaryTags": [
+            "早期逆境",
+            "儿童健康",
+            "生物嵌入",
+            "敏感期",
+            "干预"
+          ],
+          "subfieldRationale": "文章聚焦儿童期压力与逆境如何跨心理、身体、社会与生物标记多个层面塑造发展结果，并把机制、异质性与可干预因素放在同一框架中，因此归入发展与健康交叉领域。",
+          "deepReading": {
+            "l1ProblemFraming": "这篇综述要纠正的不是早期压力会不会有害这一笼统问题，而是领域长期把证据重心放在成年后果、回顾性报告和单一疾病终点上，反而不足以解释儿童期当下已经出现了哪些生物、行为与健康改变。作者要把问题改写为：在儿童样本中，早期压力到底影响了哪些多领域结果，这些影响通过什么中介和调节机制发生，又有哪些可塑因素能真正改变轨迹。",
+            "l2CoreArgument": "核心论点是：早期压力对儿童发展的影响已具备跨领域、跨层级的稳固证据，但其后果并非单一路径、也不是对所有儿童同样发生。文章首先整合系统综述、元分析以及准实验和大样本纵向研究，指出早期压力与心理健康、身体健康、学业、社会适应、司法系统接触以及生物标记等结果存在稳定关联。随后作者强调，真正需要解释的是这些关联为何有时强、有时弱，因此把敏感期、家庭层面的中介与调节因素、以及个体差异纳入中心。最后，文章把讨论从描述伤害推进到寻找解决方案，主张围绕关系、照护与其他可塑环境因素设计干预，而不是把早期逆境仅当成不可逆的风险标签。",
+            "l3ConceptHandles": [
+              "多领域结果：作者不把 early life stress 缩成单一精神病理指标，而是同时追踪 mental health、physical health、positive health、学业、社会与 justice-related outcomes。",
+              "生物嵌入与中介路径：压力效应不是抽象风险，而会通过炎症、DNA methylation、压力反应系统和其他 intermediary phenotypes 进入儿童发展过程。",
+              "敏感期与家庭调节：作者把 developmental timing 与 family-level factors 放在核心位置，说明同样的逆境暴露会因发展时点与关系环境不同而产生显著异质性。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章反过来要求压力与健康研究停止只依赖成人回顾式 ACE 叙事，也不能再把儿童逆境简单视为未来疾病的远端风险因子。它推动心理学把发展科学、儿科、精神病理学与生物机制研究重新接起来，并把谁更脆弱、何时更脆弱、什么可以改变变成比是否有害更重要的问题。",
+            "l5PivotalRefs": [
+              "Baldwin JR, Wang B, Karwatowska L, Schoeler T, Tsaligopoulou A, et al. 2023. Childhood maltreatment and mental health problems: a systematic review and meta-analysis of quasi-experimental studies. American Journal of Psychiatry 180(2):117-126. 角色：证据等级提升的关键文献；为什么关键：它用 quasi-experimental 设计逼近因果解释，支撑作者不满足于相关性叙述而要重估儿童逆境对心理健康结果的证据强度。",
+              "Chiang JJ, Lam PH, Chen E, Miller GE. 2022. Psychological stress during childhood and adolescence and its association with inflammation across the lifespan: a critical review and meta-analysis. Psychological Bulletin 148:27-66. 角色：关于 biomarkers 与 physical health 的关键综述；为什么关键：说明童年压力如何通过炎症相关过程实现 biological embedding。",
+              "Garner A, Yogman M. 2021. Preventing childhood toxic stress: partnering with families and communities to promote relational health. Pediatrics 148(2):e2021052582. 角色：从风险描述转向 solutions 的关键桥梁；为什么关键：把干预重点落在 relational health 与家庭社区可塑因素上，直接支撑文章最后的 amelioration 与 prevention 部分。"
+            ]
+          }
+        },
+        {
+          "id": "personality-genomics",
+          "kind": "article",
+          "title": "Personality Genomics",
+          "authors": [
+            "Ted Schwaba",
+            "Michel G. Nivard",
+            "Elliot M. Tucker-Drob",
+            "Dorret I. Boomsma"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-013125-042402",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-013125-042402",
+          "abstract": "Recent research advances have precipitated the era of personality genomics: the study of how variation in human DNA sequence predicts individual differences in characteristic patterns of thinking, feeling, and behaving. Here, we introduce personality and genomics, and we review key findings from recent genome-wide association studies of personality traits. These findings support five key observations: (a) sizable genetic effects on personality arise from a vast number of genetic variants with individually miniscule effects; (b) genetic variants associated with personality have widespread associations with other attributes, including social, economic, and medical outcomes; (c) genetic effects on personality generalize across groupings of people; (d) genetic effects on personality are minimally confounded by familial environmental effects; and (e) many recent genomic findings were anticipated by classic twin genetic research. For personality psychologists, embracing genomics provides unique and powerful inferential tools. For genomics researchers, incorporating unifying personality frameworks enables an integrative understanding of core behavioral dimensions.",
+          "readingStatus": "ready",
+          "primarySubfield": "人格 / 个体差异 / 基因组",
+          "secondaryTags": [
+            "人格特质",
+            "GWAS",
+            "多基因",
+            "行为遗传",
+            "跨特质关联"
+          ],
+          "subfieldRationale": "文章直接综述人格特质的基因组研究进展，并讨论其与经典人格框架、行为遗传学和跨结果关联的整合，因此属于人格个体差异与基因组学交叉领域。",
+          "deepReading": {
+            "l1ProblemFraming": "这篇文章要解决的不是人格有没有遗传基础这种旧问题，而是当 GWAS、polygenic models 和跨样本整合真正成熟后，心理学应如何重新理解人格研究。作者要纠偏两种割裂：一边是人格心理学长期依赖问卷与潜变量框架，却较少真正吸收基因组证据；另一边是 genomics 可以找到大量 DNA 变异关联，却未必有足够清晰的人格理论来组织这些发现。",
+            "l2CoreArgument": "核心论点是：人格基因组学已经从零散探索进入可累积的研究阶段，而它的价值不只在于证明人格可遗传，更在于把人格放进一个多基因、跨结果、跨群体且可与经典人格理论对话的解释框架。文章先总结近期 GWAS 发现，指出人格的遗传效应来自极大量、单个效应极小的变异；再说明这些变异与社会、经济、医学等结果存在广泛关联，因此人格 genomics 不能只停留在 trait prediction。随后作者强调，现代基因组证据与 twin research 并不冲突，反而在很多地方验证了后者的前瞻性洞见。最后文章提出双向整合要求：人格心理学需要接纳 genomics 提供的因果推断和结构信息，genomics 研究则需要用更统一的人格框架来解释看似分散的行为差异。",
+            "l3ConceptHandles": [
+              "多基因架构：作者明确拒绝单基因人格故事，强调人格差异来自 vast number of variants with individually miniscule effects。",
+              "跨结果关联：人格相关遗传变异并不只预测 trait scores，还与 social、economic and medical outcomes 相连，说明人格基因组学天然具有外部效度问题。",
+              "统一人格框架：文章要求 genomics 不要只围绕零散 phenotype 做关联，而要把发现重新放回 Big Five 或更高阶的人格组织框架中。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章给人格心理学的压力非常明确：如果还停留在问卷结构争论而不吸收基因组证据，就难以回答哪些人格维度具有更稳固的生物学一致性；反过来，它也给 genomics 施压，要求该领域不要把统计关联误当作心理构念本身，而要用清晰的人格理论组织发现。它因此推动人格研究从是否可遗传转向遗传信息如何帮助澄清人格结构、发展与外部结果。",
+            "l5PivotalRefs": [
+              "Bouchard TJ Jr. 1994. Genes, environment, and personality. Science 264(5166):1700-1701. 角色：行为遗传学阶段对人格遗传性的经典综述；为什么关键：它代表了早期对人格遗传性的系统论证，也解释了作者为何强调许多 genomics 发现其实早被 twin research 预示。",
+              "De Moor MH, Van Den Berg SM, Verweij KJ, Krueger RF, Luciano M, et al. 2015. Meta-analysis of genome-wide association studies for neuroticism, and the polygenic association with major depressive disorder. JAMA Psychiatry 72(7):642-650. 角色：人格分子遗传研究的里程碑之一；为什么关键：它不仅展示神经质的 polygenic architecture，也把人格特质与精神健康结果通过 shared genetic liability 连接起来。",
+              "Clapp Sullivan ML, Schwaba T, Harden KP, Grotzinger AD, Nivard MG, Tucker-Drob EM. 2024. Beyond the factor indeterminacy problem using genome-wide association data. Nature Human Behaviour 8(2):205-218. 角色：让 genome-wide data 反过来帮助澄清人格维度结构的关键研究；为什么关键：它支撑作者提出用统一人格框架组织 genomics 的主张。"
+            ]
+          }
+        },
+        {
+          "id": "intensive-longitudinal-methods",
+          "kind": "article",
+          "title": "Intensive Longitudinal Methods: Toward a Psychological Science of Daily Life",
+          "authors": [
+            "Jean-Philippe Laurenceau",
+            "Ana M. DiGiovanni",
+            "Niall Bolger"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-040325-025418",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-040325-025418",
+          "abstract": "Intensive longitudinal methods (ILMs) represent a class of longitudinal designs used to understand the flow of people's thoughts, feelings, physiology, and behaviors in their natural settings. This term encompasses daily diaries, experience sampling, ecological momentary assessment, ambulatory assessment, and related methods. Research on ILMs has grown exponentially, evolving into a core approach that complements more traditional designs. This article builds on this journal's first review on this topic, published in 2003. In the quarter-century since, there have been marked advances in design, technology, and statistical modeling. Three core ideas permeate this review: To build adequate theories of psychological functioning in natural settings, researchers must focus on (a) kinematics, (b) dynamics, and (c) heterogeneity. Kinematics answers the question, What happened? Dynamics answers the question, Why did it happen? Heterogeneity answers the question, How much do people vary in the whats and whys? ILMs can address these three goals of psychological science.",
+          "readingStatus": "ready",
+          "primarySubfield": "方法、测量与研究设计",
+          "secondaryTags": [
+            "日常生活研究",
+            "经验抽样",
+            "生态瞬时评估",
+            "动态建模",
+            "异质性"
+          ],
+          "subfieldRationale": "文章系统综述 daily diary、experience sampling、EMA 与 ambulatory assessment 等高频纵向设计，并以设计、技术和统计建模的升级重构心理学如何研究自然情境中的过程，因此归入方法与研究设计。",
+          "deepReading": {
+            "l1ProblemFraming": "这篇综述要纠正的是一种长期默认做法：心理学常用横断面、实验室单次测量或稀疏追踪去研究本质上在日常生活中持续流动的情绪、关系、压力和行为过程。作者认为，如果理论对象本来就是变化中的 thoughts, feelings, physiology, and behaviors，那么研究方法也必须能进入日常生活的时间流，而不是只在实验室里抽取静态切片。",
+            "l2CoreArgument": "核心论点是：ILMs 已不再只是补充性技术，而是构建日常生活心理科学的核心基础设施；其理论价值集中体现在三个问题上，即 kinematics、dynamics 与 heterogeneity。文章先回顾 2003 年以来 ILM 的扩张，指出日记法、经验抽样、EMA、ambulatory assessment 已从方法边缘走向主流。随后作者强调，ILM 的真正贡献不只是更频繁测量，而是把发生了什么、为什么发生、不同人为何不同变成可同时研究的问题。最后文章把设计、移动技术和统计建模的发展连接起来，说明只有在问题、抽样、测量频率与模型之间真正对齐时，心理学才可能形成关于 daily life 的充分理论。",
+            "l3ConceptHandles": [
+              "kinematics：关注事件、情绪、行为在自然情境中到底如何展开，回答 what happened。",
+              "dynamics：把时间序列中的先后关系、耦合和机制过程拉回中心，回答 why did it happen，而不只做平均差异比较。",
+              "heterogeneity：作者强调心理过程并非所有人共享同一条 causal pathway，ILM 的价值之一就是检验人际差异与个体内差异如何同时存在。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章对心理学的方法论施压很直接：如果理论仍声称解释日常生活，但数据结构只能支持群体平均与静态关联，那么理论就会被测量设计拖累。它推动领域把设计、技术与统计模型视为同一个解释系统的一部分，也提醒研究者不要把 ILM 神化为多测几次即可，而要真正围绕日常过程、时间结构和异质性重写研究问题。",
+            "l5PivotalRefs": [
+              "Bolger N, Davis A, Rafaeli E. 2003. Diary methods: capturing life as it is lived. Annual Review of Psychology 54:579-616. 角色：本文最直接的前史锚点；为什么关键：作者明确把 2026 综述建立在本刊 2003 年首篇综述之上，用它界定 ILM 为捕捉真实生活过程的方法起点。",
+              "Bolger N, Laurenceau J-P. 2013. Intensive Longitudinal Methods: An Introduction to Diary and Experience Sampling Research. Guilford Press. 角色：本文的方法学中轴；为什么关键：它把研究问题、抽样设计、测量频率与分析策略系统对齐，支撑本文将 ILM 从工具集合提升为一套研究 daily life 的方法论框架。",
+              "Asparouhov T, Hamaker EL, Muthén B. 2018. Dynamic structural equation models. Structural Equation Modeling 25(3):359-388. 角色：统计升级的关键代表；为什么关键：DSEM 让研究者能更有力地处理时间依赖、动态过程与个体差异，具体支撑文章提出的 dynamics 与 heterogeneity 目标。"
+            ]
+          }
+        },
+        {
+          "id": "cognitive-modeling-ai",
+          "kind": "article",
+          "title": "Cognitive Modeling Using Artificial Intelligence",
+          "authors": [
+            "Michael C. Frank",
+            "Noah D. Goodman"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-030625-040748",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-030625-040748",
+          "abstract": "Recent progress in artificial intelligence (AI) is exciting, but can AI models tell us about the human mind? AI models have a long history of being used as theoretical artifacts in cognitive science, but one key difference in the current generation of models is that they are stimulus computable, meaning that they can operate over stimuli that are similar to those experienced by people. This advance creates important opportunities for deepening our understanding of the human mind. We argue here that the most exciting of these is the use of AI models as cognitive models, wherein they are trained using human-scale input data and evaluated using careful experimental probes. Such cognitive models constitute a substantial advance that can inform theories of human intelligence by helping to explain and predict behavior.",
+          "primarySubfield": "认知、计算建模与人工智能",
+          "secondaryTags": [
+            "人工智能",
+            "认知建模",
+            "构念效度",
+            "理论解释"
+          ],
+          "subfieldRationale": "文章的核心不是一般 AI 应用，而是 AI 何时能够作为认知模型参与心理学解释，因此最适合归入认知建模与 AI 的交叉位置。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "这篇综述要纠正一种越来越常见的混淆：AI 模型表现得像人，并不自动意味着它解释了人。作者关心的问题不是 AI 是否强大，而是什么条件下，AI 才能从工程系统变成心理学上有解释力的认知模型。新一代模型的关键变化在于它们开始具备 stimulus computability，也就是能直接处理接近人类真实经验的刺激输入；这让它们首次真正有资格进入认知建模的核心讨论，但也让资格审查变得更严格。",
+            "l2CoreArgument": "作者的核心论点是：AI 对心理学最有价值的地方，不是替代实验，也不是单纯生成像人的输出，而是作为经过人类尺度输入训练、并经由精心实验探针评估的 cognitive model 来帮助解释与预测行为。文章的推进逻辑大致是四步。第一，承认当前 AI 模型确实带来了一个新局面，因为它们不再只是抽象玩具，而是能处理自然语言、图像等真实刺激。第二，作者强调真正的门槛不在性能，而在模型和心理机制之间能否建立明确映射。第三，他们把评估标准拉回心理学的方法论：训练数据、任务结构、实验探针和效度检验都必须与理论问题对齐。第四，文章因此把讨论从 AI 像不像人推进到 AI 通过什么路径帮助我们解释人类认知。",
+            "l3ConceptHandles": [
+              "刺激可计算性：这不是一般性能提升，而是模型终于能吃进和人类近似的真实刺激，从而有资格进入认知建模场景。",
+              "模型-机制映射：作者反复强调，功能相似不够，必须说明模型中的哪一层、哪一种表征或哪一类学习过程，对应了心理学要解释的什么机制。",
+              "训练与评估对齐：如果训练分布、任务结构和实验探针与人的真实认知环境脱节，那么再高的预测力也未必构成有解释力的心理学证据。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章反过来给心理学提出了更高要求：心理学不能再一边抱怨 AI 黑箱，一边继续使用模糊的构念和宽松的效度标准。若要让 AI 真的成为理论工具，心理学必须更清楚地界定构念、规定有效证据、设计更有区分力的实验探针，并明确什么叫做解释而不只是拟合。换句话说，AI 不是在逼心理学接受机器，而是在逼心理学把自己的理论标准说得更清楚。",
+            "l5PivotalRefs": [
+              "Cronbach LJ, Meehl PE. 1955. Construct validity in psychological tests. Psychological Bulletin 52(4):281-302. 角色：效度判准的经典起点。为什么关键：本文把 AI 作为认知模型时，核心争点正是不能只看表面拟合，而要问模型是否真的触及了心理学构念。",
+              "Borsboom D, Mellenbergh GJ, van Heerden J. 2004. The concept of validity. Psychological Review 111(4):1061-1071. 角色：现代效度论支撑。为什么关键：作者把 AI 模型评估拉回什么算有效测量与有效理论推断，这篇文献为该资格审查提供更严格的概念框架。",
+              "Cichy RM, Kaiser D. 2019. Deep neural networks as scientific models. Trends in Cognitive Sciences 23(4):305-317. 角色：AI 进入科学建模讨论的桥梁文献。为什么关键：它提供了深度网络为何不仅是工程工具、也可能成为认知与神经科学模型的中层论证背景。"
+            ]
+          }
+        },
+        {
+          "id": "implicit-bias",
+          "kind": "article",
+          "title": "Implicit Bias: Evolution of a Powerful Idea",
+          "authors": [
+            "B. Keith Payne"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-030525-043416",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-030525-043416",
+          "abstract": "Implicit bias has been an influential concept in psychology for the same reasons that it has been controversial: It suggests that processes outside of individuals’ control, and possibly outside their awareness, may lead to biased and discriminatory behavior. Such a mechanistic explanation for such morally fraught behavior was bound to be controversial. This article overviews the current state of the implicit bias literature with an emphasis on criticisms, both conceptual and empirical, and the ways that implicit bias research has changed in light of those criticisms. I argue that successive methods and theories have gradually improved on earlier efforts in a way that has produced cumulative progress in this field. The article ends by sketching questions for future research and with a call to better integrate person-focused and context-focused theories.",
+          "primarySubfield": "社会认知、偏见与不平等",
+          "secondaryTags": [
+            "隐性偏见",
+            "间接测量",
+            "社会判断",
+            "人境交互"
+          ],
+          "subfieldRationale": "文章围绕隐性偏见这一社会认知核心构念，系统回顾其测量争议、理论修正与社会不平等关联，因此归入社会认知与偏见研究最合适。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "这篇文章的问题意识很清楚：隐性偏见之所以影响巨大，也正因为它触碰了一个道德上高度敏感的问题，即人可能在并不完全自知、也并不完全有意的情况下做出有偏差的判断与行为。早期研究让这一概念迅速流行，但随之而来的，是对其定义、测量、稳定性、预测力与现实意义的持续质疑。作者并不回避这些批评，而是把整篇文章组织成一次回顾：隐性偏见研究到底是被批倒了，还是在批评中变得更精确了。",
+            "l2CoreArgument": "作者的核心论点是：隐性偏见研究并没有在争议中崩塌，而是在一轮轮概念与方法批评中逐渐完成升级。文章首先回顾早期研究为何如此有冲击力，因为它把偏见从公开态度层面推进到自动化过程层面。随后作者承认，这一路线曾出现过把单一测量过度实体化、把分数直接当作人格深层偏见的倾向。接着文章系统梳理该领域如何修正自己：通过比较不同间接测量、引入多过程模型、重新讨论信度与行为预测、以及更认真地把社会情境和结构因素纳入解释。最终，作者主张未来的方向不是在人格内部偏见和外部社会结构之间二选一，而是把 person-focused 与 context-focused 理论真正整合起来。",
+            "l3ConceptHandles": [
+              "隐性偏见：不是一个神秘藏在心底的单一实体，更适合理解为会在特定任务与情境中表现出来的自动化联结、评价倾向与反应模式。",
+              "间接测量：IAT、BIAT、AMP、priming 等工具并不是对真实偏见的透明窗口，而是带有任务结构与过程混合特征的指标，需要谨慎解释。",
+              "人-情境整合：作者认为隐性偏见最重要的新方向，是把个体差异、社会规范、文化暴露与制度环境放到同一解释框架里。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章对心理学的反哺在于，它迫使社会心理学停止把争论停留在隐性偏见存在不存在的抽象层面，而是转向更成熟的问题：什么被测到了，在哪些条件下可重复，何时能预测行为，情境与结构如何塑造这些效应。它也提醒应用场景中的心理学家，不能把一个间接分数直接等同于道德定罪；真正有用的研究必须把机制、测量和现实情境同时讲清楚。",
+            "l5PivotalRefs": [
+              "Banaji MR, Greenwald AG. 1995. Implicit gender stereotyping in judgments of fame. Journal of Personality and Social Psychology 68:181-198. 角色：隐性偏见研究的标志性早期实证。为什么关键：它奠定了人在不完全自觉下也会受刻板联结影响的经验基础，是整条研究进路的经典起点。",
+              "Conrey FR, Sherman JW, Gawronski B, Hugenberg K, Groom CJ. 2005. Separating multiple processes in implicit social cognition: the quad model of implicit task performance. Journal of Personality and Social Psychology 89:469-487. 角色：方法论修正节点。为什么关键：本文强调间接测量并非单过程读数，这篇文献提供了把自动联结、控制与猜测等过程分离的关键框架。",
+              "Carpenter TP, Goedderz A, Lai CK. 2023. Individual differences in implicit bias can be measured reliably by administering the same Implicit Association Test multiple times. Personality and Social Psychology Bulletin 49:1363-1378. 角色：信度修复证据。为什么关键：它直接回应了隐性偏见个体差异不可靠的核心质疑。"
+            ]
+          }
+        },
+        {
+          "id": "measurement-scale-validation",
+          "kind": "article",
+          "title": "How Do Psychologists Determine Whether a Measurement Scale Is Good? A Quarter-Century of Scale Validation with Hu & Bentler (1999)",
+          "authors": [
+            "Daniel McNeish"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-121924-104021",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-121924-104021",
+          "abstract": "Many psychologists rely on surveys, questionnaires, and measurement scales because psychological constructs like depression, motivation, or extraversion cannot be directly measured with physical instruments. Scale validation crucially provides evidence that scores from such scales capture their intended target. The prevailing scale validation approach involves comparing factor-analytic model fit indices to suggested benchmarks, and it is so engrained in psychological research that the article proposing the benchmarks is among the most cited works across any scientific discipline. However, methodological research finds that psychologists overgeneralize the benchmarks so that they no longer function as originally intended. This has widespread implications for psychologists and casts some doubt on conclusions regarding the validity of our measurement scales. This review covers the history and origin of scale validation benchmarks, how benchmarks rose to prominence and became overgeneralized, recently proposed alternatives to traditional benchmarks, and future directions in this methodological area that affects many subfields of psychology.",
+          "primarySubfield": "方法、测量与研究设计",
+          "secondaryTags": [
+            "量表验证",
+            "心理测量",
+            "结构方程模型",
+            "效度"
+          ],
+          "subfieldRationale": "文章直接回顾量表验证中以因子模型拟合指数 cutoff 为核心的主流做法、其误用及替代路径，属于方法、测量与研究设计板块。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "这篇综述要纠正的方法学偏差很明确：心理学家越来越把量表是否有效偷换成 CFA/SEM 拟合指数是否过线。McNeish 回看 Hu & Bentler (1999) 之后二十五年的量表验证实践，指出领域把原本有条件的经验性建议，僵化成了跨情境通用的验证清单。",
+            "l2CoreArgument": "核心论点是：量表验证不能被简化为固定拟合阈值的机械比较。文章先说明为什么心理学必须依赖量表来测量不可直接观测的构念，再追溯拟合指数 benchmark 的历史来源与扩散路径，指出其流行既来自软件和审稿规范的推动，也来自研究者对单一、易操作判准的需求。随后作者指出，这些 cutoff 常被脱离模型类型、样本条件和研究目标而过度泛化，导致过线即有效的错误推断。最终，文章转向替代方案与未来方向，主张把验证重新放回构念理论、证据整合与具体研究情境之中，而不是停留在阈值崇拜。",
+            "l3ConceptHandles": [
+              "拟合指数 benchmark：作者把它从验证终点降回有限条件下的诊断线索，强调其用途和边界必须被重新界定。",
+              "效度：文章把效度从单次 CFA 结果中解放出来，重新理解为关于分数解释与使用是否成立的系统证据问题。",
+              "量表验证：作者反对把 validation 当成一次性过关程序，而是强调其应是持续累积、跨证据类型的论证过程。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章对心理学方法论的反哺在于，它迫使领域承认：长期流行的量表验证实践很大程度上依赖了仪式化报告而非真正的构念论证。它给人格、社会、临床、教育等几乎所有依赖量表的子领域都提出同一压力测试：如果研究者不能说明为什么这些分数应当代表目标构念，那么漂亮的拟合指数并不能自动带来有效测量。",
+            "l5PivotalRefs": [
+              "Hu L, Bentler PM. 1999. Cutoff criteria for fit indexes in covariance structure analysis: conventional criteria versus new alternatives. Structural Equation Modeling 6(1):1-55. 角色：被回顾与反思的基准文献。为什么关键：本文讨论的正是这套 cutoff 建议如何从条件性经验规则演变成领域通用教条。",
+              "Borsboom D, Mellenbergh GJ, Van Heerden J. 2004. The concept of validity. Psychological Review 111(4):1061-1071. 角色：效度概念重构文献。为什么关键：它提供了超越模型拟合等于效度的更强理论框架。",
+              "Chen F, Curran PJ, Bollen KA, Kirby J, Paxton P. 2008. An empirical evaluation of the use of fixed cutoff points in RMSEA test statistic in structural equation models. Sociological Methods & Research 36(4):462-494. 角色：固定 cutoff 的经验反证。为什么关键：它直接展示了阈值跨模型、跨条件泛化的危险。"
+            ]
+          }
+        },
+        {
+          "id": "dense-phenotyping-precision-fmri",
+          "kind": "article",
+          "title": "Dense Phenotyping of Human Brain Network Organization Using Precision fMRI",
+          "authors": [
+            "Caterina Gratton",
+            "Rodrigo M. Braga"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-032825-032920",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-032825-032920",
+          "abstract": "The advent of noninvasive imaging methods like functional magnetic resonance imaging (fMRI) transformed cognitive neuroscience, providing insights into large-scale brain networks and their link to cognition. In the decades since, the majority of fMRI studies have employed a group-level approach, which has characterized the average brain—a construct that emphasizes features aligned across individuals but obscures the idiosyncrasies of any single person's brain. This is a critical limitation, as each brain is unique, including in the topography (i.e., arrangement) of large-scale brain networks. Recently, a new precision fMRI movement, emphasizing extensive scanning of single subjects, has spurred another leap in progress, allowing fMRI researchers to reliably map whole-brain network organization within individuals. Precision fMRI reveals a more detailed picture of functional neuroanatomy, unveiling common features that are obscured at the group level as well as forms of individual variation. However, this presents conceptual hurdles. For instance, if all brains are unique, how do we identify commonalities? And what forms of variation in functional organization are meaningful for understanding cognition? Which sources of variability are stochastic, and which are due to measurement noise? Here, we review recent findings and describe how precision fMRI can be used (a) to account for variation across individuals to identify core principles of brain organization and (b) to characterize how and why human brains vary. We argue that, as we dive deeper into the individual, overarching principles of brain organization emerge from fine-scale features, even when these vary across individuals.",
+          "primarySubfield": "认知神经科学与脑网络",
+          "secondaryTags": [
+            "precision fMRI",
+            "脑网络",
+            "个体差异",
+            "功能连接"
+          ],
+          "subfieldRationale": "文章聚焦 precision fMRI 如何用高密度单被试扫描刻画大尺度脑网络的个体拓扑与共同原则，属于认知神经科学与脑网络组织研究。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "这篇综述要纠正的是群体平均神经影像学的一个核心默认设定：把对齐后的平均脑当作认知神经科学的自然对象。作者指出，这种做法虽然擅长找共性，却会系统性抹平单个大脑在网络拓扑上的独特组织，进而限制我们理解个体差异、可靠性与功能意义。",
+            "l2CoreArgument": "核心论点是：当 fMRI 从稀疏群体平均转向高密度单被试测量后，我们不只是看到了更多个体差异，也更清楚地看到了脑网络组织的核心原则。文章先回顾传统 group-level approach 如何建立了大尺度网络图谱，同时说明其局限在于把跨个体不对齐误读成噪声。随后作者介绍 precision fMRI 如何通过大量扫描单一被试，稳定估计个体内部的全脑网络布局。接着文章推进两个判断：第一，个体差异不是研究障碍，而是理解脑组织规律的重要入口；第二，要真正解释差异，必须区分有意义的功能变异、随机波动与测量噪声。最终，文章将 precision fMRI 定位为连接共性原则与个体化神经表型的关键方法。",
+            "l3ConceptHandles": [
+              "平均脑：作者把它从默认真相降格为一种统计投影，指出它会高估跨人一致性并低估个体网络拓扑差异。",
+              "precision fMRI：不只是多扫一点，而是通过密集单被试采样获得可重复、可解释的个体网络组织图谱。",
+              "有意义的个体差异：文章要求区分真实功能组织差异、短期状态波动与测量误差，否则个体化神经科学会沦为噪声叙事。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章反过来要求认知神经科学重写自己的测量哲学：个体差异不再只是回归模型里的 nuisance variable，而是脑功能组织的核心事实。它也给心理学施压，要求把可靠性、重复测量和个体化映射纳入理论建模，否则关于认知控制、语言、记忆或临床表型的脑机制解释都可能建立在被平均化扭曲过的图谱之上。",
+            "l5PivotalRefs": [
+              "Braga RM, Buckner RL. 2017. Parallel interdigitated distributed networks within the individual estimated by intrinsic functional connectivity. Neuron 95:457-471.e5. 角色：precision fMRI 运动中的代表性单被试证据。为什么关键：它展示了个体内部可重复、细粒度且彼此交错的网络组织。",
+              "Braga RM, Van Dijk KRA, Polimeni JR, Eldaief MC, Buckner RL. 2019. Parallel distributed networks resolved at high resolution reveal close juxtaposition of distinct regions. Journal of Neurophysiology 121:1513-1534. 角色：高分辨率精细映射文献。为什么关键：它进一步证明许多群体平均图谱中被糊在一起的区域，在个体层面其实紧邻但可区分。",
+              "Cui Z, Li H, Xia CH, Larsen B, Adebimpe A, et al. 2020. Individual variation in functional topography of association networks in youth. Neuron 106:340-353.e8. 角色：个体差异与发展维度的关键证据。为什么关键：它说明关联网络拓扑变异具有系统性，而非纯随机噪声。"
+            ]
+          }
+        },
+        {
+          "id": "social-robotics",
+          "kind": "article",
+          "title": "Social Robotics Is Not (Just) About Machines, It Is About People: Psychology's Role in Developing Social Machines",
+          "authors": [
+            "Emily S. Cross",
+            "Arvid Kappas"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-040325-025951",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-040325-025951",
+          "abstract": "Social robotics is a rapidly advancing field dedicated to the development of embodied artificial agents capable of social interaction with humans. These systems are deployed across domains such as health care, education, service, and entertainment—contexts that demand nuanced social competence. Yet, the social dimension of social robotics remains insufficiently conceptualized and empirically grounded. Many companies have failed as their robots struggle to sustain meaningful, long-term engagement with users. Understanding human responses to these agents requires robust psychological frameworks. While prior work has emphasized emotion expression and affective cues, human social interaction is shaped by broader constructs, including individual goals and roles, self-presentation, and culture. Generative artificial intelligence is reshaping human–robot interaction but has yet to resolve foundational challenges in social engagement. Addressing these gaps necessitates deeper integration of psychological theory, methodology, and data. A sustained dialogue between psychology and robotics holds promise not only for advancing socially adept machines but also for enriching psychological science itself.",
+          "primarySubfield": "社会互动、人机交互与社会机器人",
+          "secondaryTags": [
+            "社会机器人",
+            "人机互动",
+            "拟人化",
+            "具身性"
+          ],
+          "subfieldRationale": "文章的重点不是一般机器人技术，而是社会互动如何被理论化、测量并嵌入 HRI 设计，因此应放在社会互动与社会机器人交叉位置。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "作者要纠正的是一个工程界和大众想象里都很常见的缩减：只要机器人能说话、会做表情、看起来像会回应，人们就以为社会性问题差不多解决了。文章指出，真正困难的并不是加几个情绪线索，而是让人工代理在长期互动中进入人的目标、角色、规范、自我呈现和文化框架。许多社会机器人项目失败，不是机器不够炫，而是它们对人为什么会把某个代理体当成社会存在理解得太浅。",
+            "l2CoreArgument": "这篇综述的核心论点是：社会机器人研究表面上是在造机器，实质上首先是在研究人；如果没有稳固的心理学框架，所谓 social robotics 就会停留在表面拟人化和短时新奇效应上。作者先指出社会机器人已广泛进入医疗、教育、服务和娱乐等高社会性场景，但领域对 social dimension 的概念化仍然薄弱。随后文章批评既有工作过于集中在情绪表达、面部线索和 affective cues，而忽略了更深层的社会互动构件，如角色、目标、自我呈现与文化。再往前一步，作者强调生成式 AI 虽然改变了 HRI 的能力边界，但并没有自动解决长期社会参与的基础问题。最终，文章把心理学定位为社会机器人发展的必要伙伴，而不是外围顾问：心理学既提供理论，也提供方法和数据标准。",
+            "l3ConceptHandles": [
+              "社会性不等于情绪线索：会笑、会点头、会说安慰话，不足以构成真正的 social engagement，关键在于互动是否嵌入角色、目标与规范结构。",
+              "具身性与代理感：机器人之所以不同于纯软件代理，不只是因为有身体，而是身体会改变他人对其意图、责任、可信度与互动节奏的判断。",
+              "文化与长期关系：社会机器人要进入真实生活，必须处理文化脚本、情境角色和时间维度，而不只是实验室里的短时接受度。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章反过来给心理学提出了一个很强的挑战：如果心理学的社会互动理论只能解释人与人、或只能在短时实验任务中成立，那么它对 HRI 的指导就会非常有限。社会机器人因此成了心理学的压力测试场，逼迫心理学更认真地处理多主体互动、规范协调、拟人化边界、文化嵌入和长期参与机制。换句话说，社会机器人不只是心理学的应用场景，也在倒逼心理学补上自己对社会性定义过窄、层次分裂的问题。",
+            "l5PivotalRefs": [
+              "Breazeal C. 2002. Designing Sociable Robots. MIT Press. 角色：社会机器人奠基文献。为什么关键：它代表了让机器人成为可社会交往对象的早期纲领性工作，是本文回顾整个领域时绕不开的历史起点。",
+              "Broadbent E. 2017. Interactions with robots: the truths we reveal about ourselves. Annual Review of Psychology 68:627-652. 角色：心理学与 HRI 的桥接综述。为什么关键：本文强调社会机器人首先关乎人，这篇综述正是从心理学角度总结人类如何回应机器人、为何这些反应值得反过来理解人类社会认知。",
+              "Belpaeme T, Kennedy J, Ramachandran A, Scassellati B, Tanaka F. 2018. Social robots for education: a review. Science Robotics 3:eaat5954. 角色：高社会性教育场景中的应用代表。为什么关键：它展示了社会机器人在真实场景中的期待与局限，支撑本文关于长期参与并不由表面互动自动保证的判断。"
+            ]
+          }
+        },
+        {
+          "id": "just-in-time-adaptive-interventions",
+          "kind": "article",
+          "title": "Just-in-Time Adaptive Interventions: Where Are We Now and What Is Next?",
+          "authors": [
+            "Inbal Nahum-Shani",
+            "Susan A. Murphy"
+          ],
+          "year": 2026,
+          "doi": "10.1146/annurev-psych-121024-044244",
+          "articleUrl": "https://www.annualreviews.org/content/journals/10.1146/annurev-psych-121024-044244",
+          "abstract": "The past decade has seen a surge in developing just-in-time adaptive interventions (JITAIs)—an intervention approach that leverages advancements in digital technologies to address the rapidly changing needs of individuals in daily life. This article provides an overview of the state of science on JITAI development and highlights important directions for future research. We explain what a JITAI is (and what it is not) and review the scientific and practical rationales underlying this approach. We also call attention to three key challenges relating to the development of JITAIs. The first challenge is that individuals may not be able to engage with (i.e., invest energy in) an intervention when they need it most in daily life. The second concerns the generally suboptimal engagement of individuals in interventions that leverage digital technologies as currently implemented. The third concerns the paucity of research on ways to harness the power of social relationships in JITAIs. We conclude that much research effort is needed to build more sophisticated and effective JITAIs.",
+          "primarySubfield": "临床与健康干预",
+          "secondaryTags": [
+            "JITAI",
+            "数字干预",
+            "行为改变",
+            "微随机试验"
+          ],
+          "subfieldRationale": "文章综述依托数字技术的即时自适应干预、其开发逻辑、参与度难题与未来方法路径，属于临床与健康干预板块。",
+          "readingStatus": "ready",
+          "deepReading": {
+            "l1ProblemFraming": "这篇综述要纠正的是传统行为干预的静态想象：很多干预默认在固定时间、固定剂量、固定渠道发挥作用，但现实生活中的风险、动机、情境和可投入资源都在快速波动。Nahum-Shani 与 Murphy 因此把问题改写为：干预能否在正确的时刻、以正确的方式、对正确的人起作用。",
+            "l2CoreArgument": "核心论点是：JITAI 的价值不在于把干预搬到手机上，而在于让干预能够根据日常生活中的时间变动、情境变化与个体状态实时适配。文章先澄清 JITAI 的定义与边界，说明它为何在数字行为改变时代变得可行且必要；接着梳理该路线的科学与实践依据，强调它要解决的是现实生活中的动态需求匹配。随后作者提出三大瓶颈：第一，人往往在最需要帮助时最难投入干预；第二，现有数字干预的参与度普遍不理想；第三，JITAI 仍较少真正利用社会关系的调节与支持功能。最终文章将未来方向指向更成熟的优化设计、参与机制研究与社会嵌入式 JITAI。",
+            "l3ConceptHandles": [
+              "JITAI：作者强调它不是普通 digital intervention 的同义词，而是围绕何时给、给什么、在何种情境下给的动态决策系统。",
+              "engagement：文章把参与度从结果变量提升为开发瓶颈，指出干预再精准，若用户在关键时刻无法投入，就难以产生效果。",
+              "社会关系：作者把它从外部背景重新纳入 JITAI 设计，认为未来干预不能只围绕个体手机交互，还要利用社会支持与关系网络。"
+            ],
+            "l4DisciplinaryFeedback": "这篇文章给行为改变心理学和数字健康研究的压力测试是：不能再只问某个干预平均是否有效，而要回答它在什么时刻、什么情境、对谁、通过什么近端机制有效。它也推动心理学把实验设计、统计优化、可穿戴传感与社会情境整合起来，使动态个体化干预从概念口号变成可检验、可优化的方法体系。",
+            "l5PivotalRefs": [
+              "Collins LM, Murphy SA, Bierman KL. 2004. A conceptual framework for adaptive preventive interventions. Prevention Science 5(3):185-196. 角色：JITAI 的上游概念基础。为什么关键：它奠定了干预应随个体状态而适配的适应性干预思想。",
+              "Collins LM, Nahum-Shani I, Almirall D. 2014. Optimization of behavioral dynamic treatment regimens based on the sequential, multiple assignment, randomized trial (SMART). Clinical Trials 11(4):426-434. 角色：动态干预优化设计框架。为什么关键：JITAI 不是只靠工程实现，还依赖能系统优化决策规则的试验设计逻辑。",
+              "Bidargaddi N, Almirall D, Murphy S, Nahum-Shani I, Kovalcik M, et al. 2018. To prompt or not to prompt? A microrandomized trial of time-varying push notifications to increase proximal engagement with a mobile health app. JMIR mHealth and uHealth 6(11):e10123. 角色：微随机试验代表文献。为什么关键：它展示了如何在日常生活中检验即时提示对近端参与的时间变动效应。"
+            ]
+          }
+        }
+      ],
+      "yearSummary": {
+        "totalEntries": 26,
+        "totalArticles": 25,
+        "subfieldDistribution": [
+          {
+            "name": "认知 / 认知神经 / 感知 / 决策",
+            "count": 8,
+            "overview": "经典认知问题还在中心，只是越来越通过神经、计算和发展视角重做。"
+          },
+          {
+            "name": "社会 / 社会认知 / 关系 / 群体",
+            "count": 8,
+            "overview": "这一卷明显不满足于研究孤立个体，而是在强调关系、群体、身份和社会协作。"
+          },
+          {
+            "name": "方法 / 测量 / 研究设计",
+            "count": 3,
+            "overview": "今年不只是在更新理论，也在更新“怎么研究”的工具箱。"
+          },
+          {
+            "name": "临床 / 发展 / 健康 / 干预",
+            "count": 3,
+            "overview": "心理学越来越需要处理成瘾、儿童压力、行为干预这类现实问题，而不只是停在实验室理论。"
+          },
+          {
+            "name": "AI / 计算 / 机器人",
+            "count": 2,
+            "overview": "AI 不只是新工具，而是在逼心理学重新回答什么叫认知模型、社会能力和人与机器的边界。"
+          },
+          {
+            "name": "人格 / 个体差异 / 基因组",
+            "count": 1,
+            "overview": "个体差异与人格向度仍保留一条稳定入口，为整卷提供差异化解释框架。"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+.page-shell {
+  margin: 0 auto;
+  max-width: 1440px;
+  padding: 40px 20px 56px;
+}
+
+.panel {
+  border: 1px solid var(--paper-border);
+  background: var(--paper-surface);
+  box-shadow: var(--paper-shadow);
+  backdrop-filter: blur(18px);
+  border-radius: 32px;
+}
+
+.hero-grid {
+  display: grid;
+  gap: 24px;
+  margin-bottom: 32px;
+}
+
+.eyebrow {
+  margin: 0;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: #78716c;
+}
+
+.hero-title {
+  margin: 16px 0 0;
+  max-width: 13ch;
+  font-family:
+    "Iowan Old Style",
+    "Palatino Linotype",
+    "Book Antiqua",
+    "Noto Serif SC",
+    serif;
+  font-size: clamp(2.5rem, 4vw, 4.75rem);
+  line-height: 0.98;
+  letter-spacing: -0.04em;
+}
+
+.hero-copy,
+.hero-note-copy,
+.detail-paragraph,
+.detail-list {
+  font-size: 0.98rem;
+  line-height: 1.9;
+  color: var(--paper-muted);
+}
+
+.hero-copy {
+  margin: 18px 0 0;
+  max-width: 70ch;
+}
+
+.hero-note {
+  align-self: start;
+  padding: 24px;
+  border-radius: 28px;
+  border: 1px solid rgba(120, 113, 108, 0.18);
+  background: rgba(255, 255, 255, 0.55);
+}
+
+.hero-note-label {
+  margin: 0;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #a16207;
+}
+
+.hero-note-title {
+  margin: 14px 0 0;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #1c1917;
+}
+
+.hero-note-copy {
+  margin: 12px 0 0;
+}
+
+.detail-section-title {
+  margin: 0 0 14px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: #57534e;
+}
+
+.detail-card {
+  border: 1px solid rgba(120, 113, 108, 0.14);
+  border-radius: 24px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.58);
+}
+
+.detail-card-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 12px;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #1c1917;
+}
+
+.detail-card-prefix {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.2rem;
+  height: 2.2rem;
+  border-radius: 9999px;
+  background: #1c1917;
+  color: #fafaf9;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+}
+
+.detail-list {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.detail-list li + li {
+  margin-top: 8px;
+}
+
+.stats-grid {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  width: 100%;
+  max-width: 420px;
+}
+
+.stats-grid > div {
+  padding: 14px 16px;
+  border: 1px solid rgba(120, 113, 108, 0.14);
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.62);
+}
+
+.stats-label {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #78716c;
+}
+
+.stats-value {
+  display: block;
+  margin-top: 8px;
+  font-size: 1.7rem;
+  line-height: 1.1;
+  color: #1c1917;
+}
+
+.subfield-bar {
+  width: 100%;
+  padding: 16px 18px;
+  border: 1px solid rgba(120, 113, 108, 0.14);
+  border-radius: 24px;
+  background: rgba(255, 255, 255, 0.72);
+  transition:
+    border-color 150ms ease,
+    box-shadow 150ms ease,
+    transform 150ms ease,
+    background-color 150ms ease;
+}
+
+.subfield-bar:hover {
+  border-color: rgba(68, 64, 60, 0.35);
+  box-shadow: 0 18px 40px rgba(28, 25, 23, 0.08);
+  transform: translateY(-1px);
+}
+
+.subfield-bar-active {
+  border-color: rgba(28, 25, 23, 0.88);
+  background: rgba(28, 25, 23, 0.04);
+  box-shadow: 0 22px 48px rgba(28, 25, 23, 0.1);
+}
+
+.subfield-meter {
+  margin-top: 12px;
+  height: 10px;
+  overflow: hidden;
+  border-radius: 9999px;
+  background: rgba(231, 229, 228, 0.9);
+}
+
+.subfield-meter-fill {
+  display: block;
+  height: 100%;
+  border-radius: 9999px;
+  background: linear-gradient(90deg, #57534e 0%, #0f766e 100%);
+}
+
+@media (min-width: 1200px) {
+  .page-shell {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+
+  .hero-grid {
+    grid-template-columns: minmax(0, 1.4fr) minmax(18rem, 24rem);
+    align-items: end;
+  }
+}
+
+@media (max-width: 768px) {
+  .page-shell {
+    padding: 24px 14px 40px;
+  }
+
+  .hero-title {
+    max-width: none;
+  }
+
+  .panel {
+    border-radius: 24px;
+  }
+
+  .stats-grid {
+    grid-template-columns: 1fr;
+    max-width: none;
+  }
+}
